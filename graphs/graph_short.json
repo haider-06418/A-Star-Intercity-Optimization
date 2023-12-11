@@ -1,0 +1,92 @@
+{
+    "Karachi": [
+        {
+            "city": "Lahore",
+            "distance": 1032.9988323128148
+        },
+        {
+            "city": "Islamabad",
+            "distance": 1142.4780867829322
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 947.4773196256343
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 1135.6315515422132
+        }
+    ],
+    "Lahore": [
+        {
+            "city": "Karachi",
+            "distance": 1032.9988323128148
+        },
+        {
+            "city": "Islamabad",
+            "distance": 270.1359683128178
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 116.2963576244561
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 261.03363706947306
+        }
+    ],
+    "Islamabad": [
+        {
+            "city": "Karachi",
+            "distance": 1142.4780867829322
+        },
+        {
+            "city": "Lahore",
+            "distance": 270.1359683128178
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 248.54348783811773
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 9.489377301884183
+        }
+    ],
+    "Faisalabad": [
+        {
+            "city": "Karachi",
+            "distance": 947.4773196256343
+        },
+        {
+            "city": "Lahore",
+            "distance": 116.2963576244561
+        },
+        {
+            "city": "Islamabad",
+            "distance": 248.54348783811773
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 239.18517335822648
+        }
+    ],
+    "Rawalpindi": [
+        {
+            "city": "Karachi",
+            "distance": 1135.6315515422132
+        },
+        {
+            "city": "Lahore",
+            "distance": 261.03363706947306
+        },
+        {
+            "city": "Islamabad",
+            "distance": 9.489377301884183
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 239.18517335822648
+        }
+    ]
+}

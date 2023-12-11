@@ -1,0 +1,6298 @@
+{
+    "Karachi": [
+        {
+            "city": "Nawabshah",
+            "distance": 209.20522187795453
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 215.3624612143939
+        },
+        {
+            "city": "Sanghar",
+            "distance": 235.84405493655146
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 143.96288692661977
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 185.34241434017483
+        },
+        {
+            "city": "Thatta",
+            "distance": 94.01253101784157
+        },
+        {
+            "city": "Badin",
+            "distance": 186.88355539375604
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 246.92723978236796
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 149.23285147039124
+        }
+    ],
+    "Lahore": [
+        {
+            "city": "Faisalabad",
+            "distance": 116.2963576244561
+        },
+        {
+            "city": "Sialkot",
+            "distance": 109.40654823713993
+        },
+        {
+            "city": "Sargodha",
+            "distance": 171.33345734888195
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 41.9116698366956
+        },
+        {
+            "city": "Jhang",
+            "distance": 195.70272260204052
+        },
+        {
+            "city": "Gujrat",
+            "distance": 119.95394464413174
+        },
+        {
+            "city": "Kasur",
+            "distance": 45.8486943072481
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 152.8888210338128
+        },
+        {
+            "city": "Okara",
+            "distance": 116.43136559093074
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 144.10609275792947
+        },
+        {
+            "city": "Chiniot",
+            "distance": 132.57614247775211
+        },
+        {
+            "city": "Shahkot",
+            "distance": 83.45081986461145
+        },
+        {
+            "city": "Kamoke",
+            "distance": 52.05523128343357
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 87.8797466973568
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 159.05151564497032
+        },
+        {
+            "city": "Jhelum",
+            "distance": 167.9825584759208
+        },
+        {
+            "city": "Burewala",
+            "distance": 221.95741060671332
+        },
+        {
+            "city": "Kotli",
+            "distance": 225.8130287970758
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 105.85652569848429
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 188.61909321877607
+        }
+    ],
+    "Islamabad": [
+        {
+            "city": "Faisalabad",
+            "distance": 248.54348783811773
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 9.489377301884183
+        },
+        {
+            "city": "Sialkot",
+            "distance": 190.7057400561641
+        },
+        {
+            "city": "Sargodha",
+            "distance": 181.44447300723468
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 235.85120970930876
+        },
+        {
+            "city": "Gujrat",
+            "distance": 156.5129827914112
+        },
+        {
+            "city": "Mardan",
+            "distance": 108.40113801932416
+        },
+        {
+            "city": "Mingora",
+            "distance": 137.0967496384487
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 128.746193967924
+        },
+        {
+            "city": "Chiniot",
+            "distance": 218.528353690072
+        },
+        {
+            "city": "Shahkot",
+            "distance": 238.56654293076704
+        },
+        {
+            "city": "Kamoke",
+            "distance": 219.62773228253744
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 189.43483786910366
+        },
+        {
+            "city": "Kohat",
+            "distance": 149.07577390356255
+        },
+        {
+            "city": "Jhelum",
+            "distance": 104.68855149664283
+        },
+        {
+            "city": "Mianwali",
+            "distance": 185.5870089807542
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 85.58550252228159
+        },
+        {
+            "city": "Attock",
+            "distance": 65.1882859935498
+        },
+        {
+            "city": "Timargara",
+            "distance": 168.87227419473155
+        },
+        {
+            "city": "Kotli",
+            "distance": 82.59697882568885
+        },
+        {
+            "city": "Chilas",
+            "distance": 215.3741083962931
+        },
+        {
+            "city": "Daggar",
+            "distance": 105.54325421122203
+        },
+        {
+            "city": "Bagh",
+            "distance": 75.18649951537898
+        },
+        {
+            "city": "Mansehra",
+            "distance": 74.38761739599656
+        },
+        {
+            "city": "Hangu",
+            "distance": 184.23798982782412
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 200.55259849773728
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 169.58310840367474
+        },
+        {
+            "city": "Bannu",
+            "distance": 240.39674946322086
+        }
+    ],
+    "Faisalabad": [
+        {
+            "city": "Lahore",
+            "distance": 116.2963576244561
+        },
+        {
+            "city": "Islamabad",
+            "distance": 248.54348783811773
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 239.18517335822648
+        },
+        {
+            "city": "Multan",
+            "distance": 211.28369622677403
+        },
+        {
+            "city": "Sialkot",
+            "distance": 174.92697731309246
+        },
+        {
+            "city": "Sargodha",
+            "distance": 82.9498243954523
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 85.05563633979973
+        },
+        {
+            "city": "Jhang",
+            "distance": 80.16796264784244
+        },
+        {
+            "city": "Gujrat",
+            "distance": 153.29030896590427
+        },
+        {
+            "city": "Kasur",
+            "distance": 130.11716357839606
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 215.582500732352
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 87.20721185566484
+        },
+        {
+            "city": "Okara",
+            "distance": 77.62663390787785
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 130.84705071307232
+        },
+        {
+            "city": "Chiniot",
+            "distance": 33.45153264730493
+        },
+        {
+            "city": "Shahkot",
+            "distance": 35.306052699920585
+        },
+        {
+            "city": "Kamoke",
+            "distance": 118.38061903136341
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 86.29359413625154
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 240.72099621569967
+        },
+        {
+            "city": "Khanewal",
+            "distance": 171.68655283718653
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 124.94379529969123
+        },
+        {
+            "city": "Jhelum",
+            "distance": 174.1121321583682
+        },
+        {
+            "city": "Vihari",
+            "distance": 173.58548679330477
+        },
+        {
+            "city": "Burewala",
+            "distance": 150.06748773676537
+        },
+        {
+            "city": "Mianwali",
+            "distance": 195.44367606079882
+        },
+        {
+            "city": "Kotli",
+            "distance": 241.17503405992747
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 144.68225028057373
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 82.06193779164155
+        }
+    ],
+    "Rawalpindi": [
+        {
+            "city": "Islamabad",
+            "distance": 9.489377301884183
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 239.18517335822648
+        },
+        {
+            "city": "Sialkot",
+            "distance": 183.0350931843707
+        },
+        {
+            "city": "Sargodha",
+            "distance": 172.71829480116858
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 226.53233813380774
+        },
+        {
+            "city": "Gujrat",
+            "distance": 148.10996657576928
+        },
+        {
+            "city": "Mardan",
+            "distance": 115.1498942891856
+        },
+        {
+            "city": "Mingora",
+            "distance": 146.2447142528738
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 119.34604097690202
+        },
+        {
+            "city": "Chiniot",
+            "distance": 209.29240902920358
+        },
+        {
+            "city": "Shahkot",
+            "distance": 229.08000560845403
+        },
+        {
+            "city": "Kamoke",
+            "distance": 210.6835062487876
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 180.02668486116244
+        },
+        {
+            "city": "Kohat",
+            "distance": 150.612115980298
+        },
+        {
+            "city": "Jhelum",
+            "distance": 96.25367400919279
+        },
+        {
+            "city": "Mianwali",
+            "distance": 181.08634944234007
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 93.23036194339969
+        },
+        {
+            "city": "Attock",
+            "distance": 68.94163216950572
+        },
+        {
+            "city": "Timargara",
+            "distance": 177.19012030430437
+        },
+        {
+            "city": "Kotli",
+            "distance": 79.20305699972306
+        },
+        {
+            "city": "Chilas",
+            "distance": 222.97396327667943
+        },
+        {
+            "city": "Daggar",
+            "distance": 114.60498249685511
+        },
+        {
+            "city": "Bagh",
+            "distance": 78.1617339798847
+        },
+        {
+            "city": "Mansehra",
+            "distance": 83.27041025805471
+        },
+        {
+            "city": "Hangu",
+            "distance": 185.56376665062547
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 209.4505800627665
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 161.03285009892568
+        },
+        {
+            "city": "Bannu",
+            "distance": 239.42713883063226
+        }
+    ],
+    "Gilgit": [
+        {
+            "city": "Mingora",
+            "distance": 217.41877599871447
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 188.53763892717964
+        },
+        {
+            "city": "Chilas",
+            "distance": 59.131916864660994
+        },
+        {
+            "city": "Daggar",
+            "distance": 228.06486941033683
+        },
+        {
+            "city": "Bagh",
+            "distance": 221.11643094456718
+        },
+        {
+            "city": "Mansehra",
+            "distance": 202.58446440855505
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 233.83104031081615
+        },
+        {
+            "city": "Astore",
+            "distance": 79.44486127826893
+        }
+    ],
+    "Bhawalpur": [
+        {
+            "city": "Multan",
+            "distance": 91.04358975109349
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 173.52683359701422
+        },
+        {
+            "city": "Jhang",
+            "distance": 216.4820738535824
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 124.7894569189078
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 196.05195278145786
+        },
+        {
+            "city": "Okara",
+            "distance": 231.9020051486405
+        },
+        {
+            "city": "Lodhran",
+            "distance": 16.40013997451083
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 88.25040949839276
+        },
+        {
+            "city": "Khanewal",
+            "distance": 103.12838482215074
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 196.3531473971076
+        },
+        {
+            "city": "Khanpur",
+            "distance": 130.56914223772682
+        },
+        {
+            "city": "Vihari",
+            "distance": 96.24779341070273
+        },
+        {
+            "city": "Burewala",
+            "distance": 126.37826128345965
+        },
+        {
+            "city": "Kohlu",
+            "distance": 241.17353862797344
+        },
+        {
+            "city": "Barkhan",
+            "distance": 215.77828084177398
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 248.30021256137954
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 190.4230558480108
+        }
+    ],
+    "Multan": [
+        {
+            "city": "Faisalabad",
+            "distance": 211.28369622677403
+        },
+        {
+            "city": "Bhawalpur",
+            "distance": 91.04358975109349
+        },
+        {
+            "city": "Sargodha",
+            "distance": 238.7695832188538
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 228.15808152726675
+        },
+        {
+            "city": "Jhang",
+            "distance": 143.9436429619999
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 81.95907410085084
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 189.71918547856131
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 164.64311614151762
+        },
+        {
+            "city": "Okara",
+            "distance": 202.3100712901233
+        },
+        {
+            "city": "Chiniot",
+            "distance": 222.0383420914038
+        },
+        {
+            "city": "Shahkot",
+            "distance": 245.0058164122275
+        },
+        {
+            "city": "Lodhran",
+            "distance": 74.73153638408337
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 30.19308874732463
+        },
+        {
+            "city": "Khanewal",
+            "distance": 45.81539355079172
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 186.00290849897394
+        },
+        {
+            "city": "Khanpur",
+            "distance": 189.5901925334865
+        },
+        {
+            "city": "Vihari",
+            "distance": 86.5043384975842
+        },
+        {
+            "city": "Burewala",
+            "distance": 113.36846519136338
+        },
+        {
+            "city": "Kohlu",
+            "distance": 216.01595076610639
+        },
+        {
+            "city": "Barkhan",
+            "distance": 190.26516216938373
+        },
+        {
+            "city": "Zhob",
+            "distance": 231.37191462348028
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 129.22177467007396
+        }
+    ],
+    "Sialkot": [
+        {
+            "city": "Lahore",
+            "distance": 109.40654823713993
+        },
+        {
+            "city": "Islamabad",
+            "distance": 190.7057400561641
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 174.92697731309246
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 183.0350931843707
+        },
+        {
+            "city": "Sargodha",
+            "distance": 179.89952436361602
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 100.86617230823451
+        },
+        {
+            "city": "Jhang",
+            "distance": 248.79549964486708
+        },
+        {
+            "city": "Gujrat",
+            "distance": 42.450523600998885
+        },
+        {
+            "city": "Kasur",
+            "distance": 153.55878026225105
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 243.83119314204075
+        },
+        {
+            "city": "Okara",
+            "distance": 212.59588073559684
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 97.18818407194509
+        },
+        {
+            "city": "Chiniot",
+            "distance": 169.0024103171682
+        },
+        {
+            "city": "Shahkot",
+            "distance": 142.19363167515257
+        },
+        {
+            "city": "Kamoke",
+            "distance": 64.25845608476223
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 91.65745201389996
+        },
+        {
+            "city": "Jhelum",
+            "distance": 88.93060999016107
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 230.26736985436386
+        },
+        {
+            "city": "Attock",
+            "distance": 246.81866664942996
+        },
+        {
+            "city": "Kotli",
+            "distance": 126.91428655455427
+        },
+        {
+            "city": "Bagh",
+            "distance": 179.0214035351152
+        },
+        {
+            "city": "Mansehra",
+            "distance": 239.43010623116788
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 38.360314995109455
+        }
+    ],
+    "Sargodha": [
+        {
+            "city": "Lahore",
+            "distance": 171.33345734888195
+        },
+        {
+            "city": "Islamabad",
+            "distance": 181.44447300723468
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 82.9498243954523
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 172.71829480116858
+        },
+        {
+            "city": "Multan",
+            "distance": 238.7695832188538
+        },
+        {
+            "city": "Sialkot",
+            "distance": 179.89952436361602
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 130.09770822752049
+        },
+        {
+            "city": "Jhang",
+            "distance": 96.62593318237664
+        },
+        {
+            "city": "Gujrat",
+            "distance": 143.03146917206902
+        },
+        {
+            "city": "Kasur",
+            "distance": 199.700712334481
+        },
+        {
+            "city": "Mardan",
+            "distance": 242.4926915529061
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 169.17235353448496
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 162.72807874636058
+        },
+        {
+            "city": "Okara",
+            "distance": 160.16087274409384
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 95.28904231201733
+        },
+        {
+            "city": "Chiniot",
+            "distance": 49.75529292461149
+        },
+        {
+            "city": "Shahkot",
+            "distance": 95.40291635286768
+        },
+        {
+            "city": "Kamoke",
+            "distance": 146.92903060419528
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 95.82879287897622
+        },
+        {
+            "city": "Kohat",
+            "distance": 202.78578233045388
+        },
+        {
+            "city": "Khanewal",
+            "distance": 210.1988516496609
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 204.8489498319248
+        },
+        {
+            "city": "Jhelum",
+            "distance": 136.94307631420068
+        },
+        {
+            "city": "Vihari",
+            "distance": 229.0713025461961
+        },
+        {
+            "city": "Burewala",
+            "distance": 213.15901539055264
+        },
+        {
+            "city": "Mianwali",
+            "distance": 119.08793789272346
+        },
+        {
+            "city": "Attock",
+            "distance": 189.536234923209
+        },
+        {
+            "city": "Kotli",
+            "distance": 197.34704148301054
+        },
+        {
+            "city": "Bagh",
+            "distance": 234.84056997446922
+        },
+        {
+            "city": "Hangu",
+            "distance": 220.1481823523856
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 141.89335457074918
+        },
+        {
+            "city": "Bannu",
+            "distance": 218.4091238495679
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 125.46268778863006
+        }
+    ],
+    "Sukkur": [
+        {
+            "city": "Larkana",
+            "distance": 65.51125143230156
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 161.98036040521725
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 167.96965633947286
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 242.79839557048038
+        },
+        {
+            "city": "Sanghar",
+            "distance": 184.6500610253973
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 75.03521530923224
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 35.402620262790414
+        },
+        {
+            "city": "Khairpur",
+            "distance": 21.74333317608832
+        },
+        {
+            "city": "Khanpur",
+            "distance": 204.71309495046907
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 249.30264939115074
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 93.477229801807
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 111.4753880400323
+        },
+        {
+            "city": "Ghotki",
+            "distance": 56.2111078997898
+        },
+        {
+            "city": "Kohlu",
+            "distance": 246.72666562505893
+        },
+        {
+            "city": "Khuzdar",
+            "distance": 220.74210676787675
+        },
+        {
+            "city": "Gandawah",
+            "distance": 168.2163004244614
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 150.90041736501456
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 120.69342385395882
+        }
+    ],
+    "Larkana": [
+        {
+            "city": "Sukkur",
+            "distance": 65.51125143230156
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 225.8599677690369
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 146.6493908063007
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 239.20329921157617
+        },
+        {
+            "city": "Sanghar",
+            "distance": 182.9433521928096
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 235.7414149953945
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 83.52240294695575
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 61.11080316658595
+        },
+        {
+            "city": "Khairpur",
+            "distance": 54.0606909333002
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 237.59467122312572
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 96.67396152003082
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 108.71555661509524
+        },
+        {
+            "city": "Ghotki",
+            "distance": 119.47525040888837
+        },
+        {
+            "city": "Khuzdar",
+            "distance": 159.63676977464084
+        },
+        {
+            "city": "Gandawah",
+            "distance": 137.6570173302667
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 188.8261503317288
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 80.11461878512152
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 242.49017672785806
+        }
+    ],
+    "Sheikhupura": [
+        {
+            "city": "Lahore",
+            "distance": 41.9116698366956
+        },
+        {
+            "city": "Islamabad",
+            "distance": 235.85120970930876
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 85.05563633979973
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 226.53233813380774
+        },
+        {
+            "city": "Sialkot",
+            "distance": 100.86617230823451
+        },
+        {
+            "city": "Sargodha",
+            "distance": 130.09770822752049
+        },
+        {
+            "city": "Jhang",
+            "distance": 165.0062252281333
+        },
+        {
+            "city": "Gujrat",
+            "distance": 96.0632733994094
+        },
+        {
+            "city": "Kasur",
+            "distance": 79.9972551479702
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 143.2404222379788
+        },
+        {
+            "city": "Okara",
+            "distance": 111.86553802815158
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 107.51611685450337
+        },
+        {
+            "city": "Chiniot",
+            "distance": 94.59177711460974
+        },
+        {
+            "city": "Shahkot",
+            "distance": 49.78315687876376
+        },
+        {
+            "city": "Kamoke",
+            "distance": 37.21017980212705
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 48.02861889240251
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 161.273764884028
+        },
+        {
+            "city": "Jhelum",
+            "distance": 137.75029619213873
+        },
+        {
+            "city": "Vihari",
+            "distance": 242.1149579056868
+        },
+        {
+            "city": "Burewala",
+            "distance": 213.57418920458716
+        },
+        {
+            "city": "Mianwali",
+            "distance": 248.23989412917473
+        },
+        {
+            "city": "Kotli",
+            "distance": 200.63412662506855
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 82.97051874537881
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 164.45757492527696
+        }
+    ],
+    "Rahim Yar Khan": [
+        {
+            "city": "Bhawalpur",
+            "distance": 173.52683359701422
+        },
+        {
+            "city": "Multan",
+            "distance": 228.15808152726675
+        },
+        {
+            "city": "Sukkur",
+            "distance": 161.98036040521725
+        },
+        {
+            "city": "Larkana",
+            "distance": 225.8599677690369
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 184.8550905021507
+        },
+        {
+            "city": "Lodhran",
+            "distance": 179.85687202207916
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 181.18321860714332
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 170.43440549432347
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 203.12332420066534
+        },
+        {
+            "city": "Khairpur",
+            "distance": 180.31146726421264
+        },
+        {
+            "city": "Khanpur",
+            "distance": 43.021273697634136
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 190.27888180421496
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 203.59083301242737
+        },
+        {
+            "city": "Ghotki",
+            "distance": 106.39931888135469
+        },
+        {
+            "city": "Kohlu",
+            "distance": 192.84083426438048
+        },
+        {
+            "city": "Barkhan",
+            "distance": 180.51069940995575
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 130.2955807531464
+        }
+    ],
+    "Jhang": [
+        {
+            "city": "Lahore",
+            "distance": 195.70272260204052
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 80.16796264784244
+        },
+        {
+            "city": "Bhawalpur",
+            "distance": 216.4820738535824
+        },
+        {
+            "city": "Multan",
+            "distance": 143.9436429619999
+        },
+        {
+            "city": "Sialkot",
+            "distance": 248.79549964486708
+        },
+        {
+            "city": "Sargodha",
+            "distance": 96.62593318237664
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 165.0062252281333
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 209.9660929596607
+        },
+        {
+            "city": "Gujrat",
+            "distance": 220.5927903719035
+        },
+        {
+            "city": "Kasur",
+            "distance": 203.19532605662764
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 148.11536064675443
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 100.15521830859421
+        },
+        {
+            "city": "Okara",
+            "distance": 120.10531770023304
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 183.80545465592738
+        },
+        {
+            "city": "Chiniot",
+            "distance": 80.26316521395408
+        },
+        {
+            "city": "Shahkot",
+            "distance": 115.24743907174233
+        },
+        {
+            "city": "Kamoke",
+            "distance": 196.8371324809658
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 157.2015949708746
+        },
+        {
+            "city": "Lodhran",
+            "distance": 203.18046783781963
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 171.1783073423355
+        },
+        {
+            "city": "Khanewal",
+            "distance": 113.58281505481983
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 145.25724228023867
+        },
+        {
+            "city": "Jhelum",
+            "distance": 227.8738043584805
+        },
+        {
+            "city": "Vihari",
+            "distance": 136.41957647394284
+        },
+        {
+            "city": "Burewala",
+            "distance": 126.52361265849547
+        },
+        {
+            "city": "Mianwali",
+            "distance": 163.2118803575728
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 214.75591787919868
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 37.0304823770846
+        }
+    ],
+    "Dera Ghazi Khan": [
+        {
+            "city": "Bhawalpur",
+            "distance": 124.7894569189078
+        },
+        {
+            "city": "Multan",
+            "distance": 81.95907410085084
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 184.8550905021507
+        },
+        {
+            "city": "Jhang",
+            "distance": 209.9660929596607
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 199.2123106083677
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 246.06907781290536
+        },
+        {
+            "city": "Lodhran",
+            "distance": 111.86999437387335
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 53.82879432222056
+        },
+        {
+            "city": "Khanewal",
+            "distance": 127.70719740146625
+        },
+        {
+            "city": "Khanpur",
+            "distance": 156.35812578802347
+        },
+        {
+            "city": "Vihari",
+            "distance": 165.30620260851245
+        },
+        {
+            "city": "Burewala",
+            "distance": 194.2279449378247
+        },
+        {
+            "city": "Kohlu",
+            "distance": 134.18389354000618
+        },
+        {
+            "city": "Barkhan",
+            "distance": 108.3405785251694
+        },
+        {
+            "city": "Qila Saifullah",
+            "distance": 207.90829151470288
+        },
+        {
+            "city": "Zhob",
+            "distance": 182.50473508254134
+        },
+        {
+            "city": "Loralai",
+            "distance": 198.6123779546288
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 182.33521770369984
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 203.98113745722506
+        }
+    ],
+    "Gujrat": [
+        {
+            "city": "Lahore",
+            "distance": 119.95394464413174
+        },
+        {
+            "city": "Islamabad",
+            "distance": 156.5129827914112
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 153.29030896590427
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 148.10996657576928
+        },
+        {
+            "city": "Sialkot",
+            "distance": 42.450523600998885
+        },
+        {
+            "city": "Sargodha",
+            "distance": 143.03146917206902
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 96.0632733994094
+        },
+        {
+            "city": "Jhang",
+            "distance": 220.5927903719035
+        },
+        {
+            "city": "Kasur",
+            "distance": 165.7807600765947
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 231.33010506076914
+        },
+        {
+            "city": "Okara",
+            "distance": 204.58352420597183
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 55.090621279280775
+        },
+        {
+            "city": "Chiniot",
+            "distance": 140.4652873235378
+        },
+        {
+            "city": "Shahkot",
+            "distance": 124.97613480811499
+        },
+        {
+            "city": "Kamoke",
+            "distance": 67.92870007567593
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 67.10527695622447
+        },
+        {
+            "city": "Jhelum",
+            "distance": 51.8562959222646
+        },
+        {
+            "city": "Mianwali",
+            "distance": 236.9630210548203
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 207.66814165418444
+        },
+        {
+            "city": "Attock",
+            "distance": 208.61285707192621
+        },
+        {
+            "city": "Kotli",
+            "distance": 106.04143598012544
+        },
+        {
+            "city": "Bagh",
+            "distance": 158.92286060881258
+        },
+        {
+            "city": "Mansehra",
+            "distance": 213.0574927339598
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 14.1049172851546
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 233.76538163370586
+        }
+    ],
+    "Kasur": [
+        {
+            "city": "Lahore",
+            "distance": 45.8486943072481
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 130.11716357839606
+        },
+        {
+            "city": "Sialkot",
+            "distance": 153.55878026225105
+        },
+        {
+            "city": "Sargodha",
+            "distance": 199.700712334481
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 79.9972551479702
+        },
+        {
+            "city": "Jhang",
+            "distance": 203.19532605662764
+        },
+        {
+            "city": "Gujrat",
+            "distance": 165.7807600765947
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 137.84161098969557
+        },
+        {
+            "city": "Okara",
+            "distance": 100.04340066486614
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 186.97588888994613
+        },
+        {
+            "city": "Chiniot",
+            "distance": 154.73663965880846
+        },
+        {
+            "city": "Shahkot",
+            "distance": 104.83171275810312
+        },
+        {
+            "city": "Kamoke",
+            "distance": 97.85728337834578
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 128.02269501992765
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 131.32382088451095
+        },
+        {
+            "city": "Jhelum",
+            "distance": 213.2854894540292
+        },
+        {
+            "city": "Vihari",
+            "distance": 233.34043456883623
+        },
+        {
+            "city": "Burewala",
+            "distance": 201.6588522653209
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 151.68859387730964
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 187.7890588077789
+        }
+    ],
+    "Mardan": [
+        {
+            "city": "Islamabad",
+            "distance": 108.40113801932416
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 115.1498942891856
+        },
+        {
+            "city": "Sargodha",
+            "distance": 242.4926915529061
+        },
+        {
+            "city": "Mingora",
+            "distance": 70.19899443883553
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 223.75905144762015
+        },
+        {
+            "city": "Kohat",
+            "distance": 88.60289899995202
+        },
+        {
+            "city": "Jhelum",
+            "distance": 209.73858395313664
+        },
+        {
+            "city": "Mianwali",
+            "distance": 185.91539310243832
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 131.60929777517987
+        },
+        {
+            "city": "Attock",
+            "distance": 55.64816117097335
+        },
+        {
+            "city": "Timargara",
+            "distance": 72.3298103447306
+        },
+        {
+            "city": "Kotli",
+            "distance": 188.2810098422615
+        },
+        {
+            "city": "Parachinar",
+            "distance": 183.0479090903971
+        },
+        {
+            "city": "Chilas",
+            "distance": 230.65655004606666
+        },
+        {
+            "city": "Daggar",
+            "distance": 52.533477062607865
+        },
+        {
+            "city": "Bagh",
+            "distance": 161.02407024448556
+        },
+        {
+            "city": "Mansehra",
+            "distance": 106.33916101553228
+        },
+        {
+            "city": "Hangu",
+            "distance": 117.484486230338
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 112.9638636801426
+        },
+        {
+            "city": "Bannu",
+            "distance": 190.9102969573216
+        }
+    ],
+    "Mingora": [
+        {
+            "city": "Islamabad",
+            "distance": 137.0967496384487
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 146.2447142528738
+        },
+        {
+            "city": "Gilgit",
+            "distance": 217.41877599871447
+        },
+        {
+            "city": "Mardan",
+            "distance": 70.19899443883553
+        },
+        {
+            "city": "Kohat",
+            "distance": 157.30654963279048
+        },
+        {
+            "city": "Jhelum",
+            "distance": 240.8601476673182
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 111.18071550132532
+        },
+        {
+            "city": "Attock",
+            "distance": 112.59026241021454
+        },
+        {
+            "city": "Timargara",
+            "distance": 48.04461755920223
+        },
+        {
+            "city": "Kotli",
+            "distance": 200.4347445500838
+        },
+        {
+            "city": "Parachinar",
+            "distance": 229.7785548027308
+        },
+        {
+            "city": "Chilas",
+            "distance": 173.2761727192004
+        },
+        {
+            "city": "Daggar",
+            "distance": 31.85443233593585
+        },
+        {
+            "city": "Bagh",
+            "distance": 157.57690099430022
+        },
+        {
+            "city": "Mansehra",
+            "distance": 90.5984458402776
+        },
+        {
+            "city": "Hangu",
+            "distance": 182.74761931654325
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 64.99850800179365
+        },
+        {
+            "city": "Astore",
+            "distance": 237.91317465831432
+        }
+    ],
+    "Dera Ismail Khan": [
+        {
+            "city": "Faisalabad",
+            "distance": 215.582500732352
+        },
+        {
+            "city": "Multan",
+            "distance": 189.71918547856131
+        },
+        {
+            "city": "Sargodha",
+            "distance": 169.17235353448496
+        },
+        {
+            "city": "Jhang",
+            "distance": 148.11536064675443
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 199.2123106083677
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 245.8736390277537
+        },
+        {
+            "city": "Chiniot",
+            "distance": 196.62844721171288
+        },
+        {
+            "city": "Shahkot",
+            "distance": 245.59219946011714
+        },
+        {
+            "city": "Kohat",
+            "distance": 201.43918502937083
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 197.95332895254887
+        },
+        {
+            "city": "Khanewal",
+            "distance": 196.48931797169027
+        },
+        {
+            "city": "Vihari",
+            "distance": 242.45847989860948
+        },
+        {
+            "city": "Burewala",
+            "distance": 249.13165730663678
+        },
+        {
+            "city": "Mianwali",
+            "distance": 103.31765412655102
+        },
+        {
+            "city": "Parachinar",
+            "distance": 241.2289214438359
+        },
+        {
+            "city": "Zhob",
+            "distance": 148.18357672861293
+        },
+        {
+            "city": "Hangu",
+            "distance": 189.6999835649455
+        },
+        {
+            "city": "Bannu",
+            "distance": 131.03058029555208
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 178.29466284659603
+        }
+    ],
+    "Nawabshah": [
+        {
+            "city": "Karachi",
+            "distance": 209.20522187795453
+        },
+        {
+            "city": "Sukkur",
+            "distance": 167.96965633947286
+        },
+        {
+            "city": "Larkana",
+            "distance": 146.6493908063007
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 100.37385534072412
+        },
+        {
+            "city": "Sanghar",
+            "distance": 58.30658990195509
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 91.17356302245922
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 225.60803753319092
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 191.3929805865047
+        },
+        {
+            "city": "Khairpur",
+            "distance": 146.62804866932927
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 92.18572948143164
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 241.18668777102712
+        },
+        {
+            "city": "Umerkot",
+            "distance": 165.44040940003188
+        },
+        {
+            "city": "Ghotki",
+            "distance": 215.1148662565789
+        },
+        {
+            "city": "Khuzdar",
+            "distance": 247.59371506203027
+        },
+        {
+            "city": "Thatta",
+            "distance": 174.00133501981952
+        },
+        {
+            "city": "Badin",
+            "distance": 182.31528043625812
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 71.82025749300558
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 96.72746557960492
+        }
+    ],
+    "Sahiwal": [
+        {
+            "city": "Lahore",
+            "distance": 152.8888210338128
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 87.20721185566484
+        },
+        {
+            "city": "Bhawalpur",
+            "distance": 196.05195278145786
+        },
+        {
+            "city": "Multan",
+            "distance": 164.64311614151762
+        },
+        {
+            "city": "Sialkot",
+            "distance": 243.83119314204075
+        },
+        {
+            "city": "Sargodha",
+            "distance": 162.72807874636058
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 143.2404222379788
+        },
+        {
+            "city": "Jhang",
+            "distance": 100.15521830859421
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 246.06907781290536
+        },
+        {
+            "city": "Gujrat",
+            "distance": 231.33010506076914
+        },
+        {
+            "city": "Kasur",
+            "distance": 137.84161098969557
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 245.8736390277537
+        },
+        {
+            "city": "Okara",
+            "distance": 37.89092447565176
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 216.79388888393132
+        },
+        {
+            "city": "Chiniot",
+            "distance": 117.69225972016712
+        },
+        {
+            "city": "Shahkot",
+            "distance": 106.757460784598
+        },
+        {
+            "city": "Kamoke",
+            "distance": 180.4180565901644
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 165.49455869198508
+        },
+        {
+            "city": "Lodhran",
+            "distance": 188.9208601604084
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 194.5174451891126
+        },
+        {
+            "city": "Khanewal",
+            "distance": 118.99186181844054
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 45.4545851796236
+        },
+        {
+            "city": "Vihari",
+            "distance": 99.89082232227244
+        },
+        {
+            "city": "Burewala",
+            "distance": 70.37787870224788
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 220.45121305499168
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 67.68331325142864
+        }
+    ],
+    "Mirpur Khas": [
+        {
+            "city": "Karachi",
+            "distance": 215.3624612143939
+        },
+        {
+            "city": "Sukkur",
+            "distance": 242.79839557048038
+        },
+        {
+            "city": "Larkana",
+            "distance": 239.20329921157617
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 100.37385534072412
+        },
+        {
+            "city": "Sanghar",
+            "distance": 58.22639295358398
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 73.86097888660342
+        },
+        {
+            "city": "Khairpur",
+            "distance": 224.1032406593566
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 30.29412284385306
+        },
+        {
+            "city": "Umerkot",
+            "distance": 75.09336614441145
+        },
+        {
+            "city": "Thatta",
+            "distance": 139.65067602228387
+        },
+        {
+            "city": "Badin",
+            "distance": 98.41050366523962
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 171.04852511132333
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 66.5903848038087
+        },
+        {
+            "city": "Tharparkar",
+            "distance": 157.189161140179
+        }
+    ],
+    "Okara": [
+        {
+            "city": "Lahore",
+            "distance": 116.43136559093074
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 77.62663390787785
+        },
+        {
+            "city": "Bhawalpur",
+            "distance": 231.9020051486405
+        },
+        {
+            "city": "Multan",
+            "distance": 202.3100712901233
+        },
+        {
+            "city": "Sialkot",
+            "distance": 212.59588073559684
+        },
+        {
+            "city": "Sargodha",
+            "distance": 160.16087274409384
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 111.86553802815158
+        },
+        {
+            "city": "Jhang",
+            "distance": 120.10531770023304
+        },
+        {
+            "city": "Gujrat",
+            "distance": 204.58352420597183
+        },
+        {
+            "city": "Kasur",
+            "distance": 100.04340066486614
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 37.89092447565176
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 197.6938231649558
+        },
+        {
+            "city": "Chiniot",
+            "distance": 111.05114650996326
+        },
+        {
+            "city": "Shahkot",
+            "distance": 84.53020180679385
+        },
+        {
+            "city": "Kamoke",
+            "distance": 148.4315300280922
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 141.52798052581772
+        },
+        {
+            "city": "Lodhran",
+            "distance": 225.5536556498972
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 232.2617629225753
+        },
+        {
+            "city": "Khanewal",
+            "distance": 156.75869065143218
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 51.46795196970318
+        },
+        {
+            "city": "Jhelum",
+            "distance": 237.49754000858306
+        },
+        {
+            "city": "Vihari",
+            "distance": 136.28699079128955
+        },
+        {
+            "city": "Burewala",
+            "distance": 105.52802795648688
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 192.67506083423137
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 94.78697916587927
+        }
+    ],
+    "Mandi Bahauddin": [
+        {
+            "city": "Lahore",
+            "distance": 144.10609275792947
+        },
+        {
+            "city": "Islamabad",
+            "distance": 128.746193967924
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 130.84705071307232
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 119.34604097690202
+        },
+        {
+            "city": "Sialkot",
+            "distance": 97.18818407194509
+        },
+        {
+            "city": "Sargodha",
+            "distance": 95.28904231201733
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 107.51611685450337
+        },
+        {
+            "city": "Jhang",
+            "distance": 183.80545465592738
+        },
+        {
+            "city": "Gujrat",
+            "distance": 55.090621279280775
+        },
+        {
+            "city": "Kasur",
+            "distance": 186.97588888994613
+        },
+        {
+            "city": "Mardan",
+            "distance": 223.75905144762015
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 216.79388888393132
+        },
+        {
+            "city": "Okara",
+            "distance": 197.6938231649558
+        },
+        {
+            "city": "Chiniot",
+            "distance": 107.89497811317979
+        },
+        {
+            "city": "Shahkot",
+            "distance": 113.1680846867028
+        },
+        {
+            "city": "Kamoke",
+            "distance": 96.95459204148231
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 60.69267633297358
+        },
+        {
+            "city": "Kohat",
+            "distance": 220.8855618467951
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 248.97146716912926
+        },
+        {
+            "city": "Jhelum",
+            "distance": 44.37634699497428
+        },
+        {
+            "city": "Mianwali",
+            "distance": 181.88161940626998
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 198.19256165238
+        },
+        {
+            "city": "Attock",
+            "distance": 168.7254931670957
+        },
+        {
+            "city": "Kotli",
+            "distance": 110.64699720788099
+        },
+        {
+            "city": "Daggar",
+            "distance": 233.32603970954565
+        },
+        {
+            "city": "Bagh",
+            "distance": 157.12511092565936
+        },
+        {
+            "city": "Mansehra",
+            "distance": 196.9614969458516
+        },
+        {
+            "city": "Hangu",
+            "distance": 249.2098991081489
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 60.60423953737467
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 203.87866093711855
+        }
+    ],
+    "Chiniot": [
+        {
+            "city": "Lahore",
+            "distance": 132.57614247775211
+        },
+        {
+            "city": "Islamabad",
+            "distance": 218.528353690072
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 33.45153264730493
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 209.29240902920358
+        },
+        {
+            "city": "Multan",
+            "distance": 222.0383420914038
+        },
+        {
+            "city": "Sialkot",
+            "distance": 169.0024103171682
+        },
+        {
+            "city": "Sargodha",
+            "distance": 49.75529292461149
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 94.59177711460974
+        },
+        {
+            "city": "Jhang",
+            "distance": 80.26316521395408
+        },
+        {
+            "city": "Gujrat",
+            "distance": 140.4652873235378
+        },
+        {
+            "city": "Kasur",
+            "distance": 154.73663965880846
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 196.62844721171288
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 117.69225972016712
+        },
+        {
+            "city": "Okara",
+            "distance": 111.05114650996326
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 107.89497811317979
+        },
+        {
+            "city": "Shahkot",
+            "distance": 50.33557033333769
+        },
+        {
+            "city": "Kamoke",
+            "distance": 121.05172697273163
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 77.36113385362262
+        },
+        {
+            "city": "Khanewal",
+            "distance": 186.53447959361645
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 157.54597127561266
+        },
+        {
+            "city": "Jhelum",
+            "distance": 152.22530690236152
+        },
+        {
+            "city": "Vihari",
+            "distance": 195.94879713272948
+        },
+        {
+            "city": "Burewala",
+            "distance": 175.5336248674182
+        },
+        {
+            "city": "Mianwali",
+            "distance": 165.21012856243706
+        },
+        {
+            "city": "Attock",
+            "distance": 235.04482385396378
+        },
+        {
+            "city": "Kotli",
+            "distance": 218.25775636885638
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 134.5029619231379
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 96.052287634229
+        }
+    ],
+    "Shahkot": [
+        {
+            "city": "Lahore",
+            "distance": 83.45081986461145
+        },
+        {
+            "city": "Islamabad",
+            "distance": 238.56654293076704
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 35.306052699920585
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 229.08000560845403
+        },
+        {
+            "city": "Multan",
+            "distance": 245.0058164122275
+        },
+        {
+            "city": "Sialkot",
+            "distance": 142.19363167515257
+        },
+        {
+            "city": "Sargodha",
+            "distance": 95.40291635286768
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 49.78315687876376
+        },
+        {
+            "city": "Jhang",
+            "distance": 115.24743907174233
+        },
+        {
+            "city": "Gujrat",
+            "distance": 124.97613480811499
+        },
+        {
+            "city": "Kasur",
+            "distance": 104.83171275810312
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 245.59219946011714
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 106.757460784598
+        },
+        {
+            "city": "Okara",
+            "distance": 84.53020180679385
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 113.1680846867028
+        },
+        {
+            "city": "Chiniot",
+            "distance": 50.33557033333769
+        },
+        {
+            "city": "Kamoke",
+            "distance": 83.50981944434812
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 58.73807877818853
+        },
+        {
+            "city": "Khanewal",
+            "distance": 204.11304921448505
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 135.87209629059492
+        },
+        {
+            "city": "Jhelum",
+            "distance": 153.41642178739855
+        },
+        {
+            "city": "Vihari",
+            "distance": 201.19557199358098
+        },
+        {
+            "city": "Burewala",
+            "distance": 174.99521706180755
+        },
+        {
+            "city": "Mianwali",
+            "distance": 213.91564019270012
+        },
+        {
+            "city": "Kotli",
+            "distance": 220.29880021650365
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 114.79881380384104
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 116.07642994503985
+        }
+    ],
+    "Kamoke": [
+        {
+            "city": "Lahore",
+            "distance": 52.05523128343357
+        },
+        {
+            "city": "Islamabad",
+            "distance": 219.62773228253744
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 118.38061903136341
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 210.6835062487876
+        },
+        {
+            "city": "Sialkot",
+            "distance": 64.25845608476223
+        },
+        {
+            "city": "Sargodha",
+            "distance": 146.92903060419528
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 37.21017980212705
+        },
+        {
+            "city": "Jhang",
+            "distance": 196.8371324809658
+        },
+        {
+            "city": "Gujrat",
+            "distance": 67.92870007567593
+        },
+        {
+            "city": "Kasur",
+            "distance": 97.85728337834578
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 180.4180565901644
+        },
+        {
+            "city": "Okara",
+            "distance": 148.4315300280922
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 96.95459204148231
+        },
+        {
+            "city": "Chiniot",
+            "distance": 121.05172697273163
+        },
+        {
+            "city": "Shahkot",
+            "distance": 83.50981944434812
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 51.625521310268056
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 196.92035188800466
+        },
+        {
+            "city": "Jhelum",
+            "distance": 116.4016688192569
+        },
+        {
+            "city": "Kotli",
+            "distance": 173.89329256520492
+        },
+        {
+            "city": "Bagh",
+            "distance": 226.8316540647696
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 53.84620679839911
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 199.54811453767886
+        }
+    ],
+    "Sanghar": [
+        {
+            "city": "Karachi",
+            "distance": 235.84405493655146
+        },
+        {
+            "city": "Sukkur",
+            "distance": 184.6500610253973
+        },
+        {
+            "city": "Larkana",
+            "distance": 182.9433521928096
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 58.30658990195509
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 58.22639295358398
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 95.18491032785337
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 214.7029790709354
+        },
+        {
+            "city": "Khairpur",
+            "distance": 165.8770844168204
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 68.54006844144776
+        },
+        {
+            "city": "Umerkot",
+            "distance": 109.69537787973974
+        },
+        {
+            "city": "Ghotki",
+            "distance": 220.94519634040122
+        },
+        {
+            "city": "Thatta",
+            "distance": 177.50406207770354
+        },
+        {
+            "city": "Badin",
+            "distance": 155.13815301054578
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 120.78998272799325
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 94.27803418309784
+        },
+        {
+            "city": "Tharparkar",
+            "distance": 196.08835621227837
+        }
+    ],
+    "Hafizabad": [
+        {
+            "city": "Lahore",
+            "distance": 87.8797466973568
+        },
+        {
+            "city": "Islamabad",
+            "distance": 189.43483786910366
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 86.29359413625154
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 180.02668486116244
+        },
+        {
+            "city": "Sialkot",
+            "distance": 91.65745201389996
+        },
+        {
+            "city": "Sargodha",
+            "distance": 95.82879287897622
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 48.02861889240251
+        },
+        {
+            "city": "Jhang",
+            "distance": 157.2015949708746
+        },
+        {
+            "city": "Gujrat",
+            "distance": 67.10527695622447
+        },
+        {
+            "city": "Kasur",
+            "distance": 128.02269501992765
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 165.49455869198508
+        },
+        {
+            "city": "Okara",
+            "distance": 141.52798052581772
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 60.69267633297358
+        },
+        {
+            "city": "Chiniot",
+            "distance": 77.36113385362262
+        },
+        {
+            "city": "Shahkot",
+            "distance": 58.73807877818853
+        },
+        {
+            "city": "Kamoke",
+            "distance": 51.625521310268056
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 192.96410320055793
+        },
+        {
+            "city": "Jhelum",
+            "distance": 96.35600110503313
+        },
+        {
+            "city": "Burewala",
+            "distance": 233.34279954202003
+        },
+        {
+            "city": "Mianwali",
+            "distance": 208.90459414812958
+        },
+        {
+            "city": "Attock",
+            "distance": 226.45569769294175
+        },
+        {
+            "city": "Kotli",
+            "distance": 162.52227440103772
+        },
+        {
+            "city": "Bagh",
+            "distance": 212.79983146385882
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 58.575787184645726
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 167.42285444226414
+        }
+    ],
+    "Lodhran": [
+        {
+            "city": "Bhawalpur",
+            "distance": 16.40013997451083
+        },
+        {
+            "city": "Multan",
+            "distance": 74.73153638408337
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 179.85687202207916
+        },
+        {
+            "city": "Jhang",
+            "distance": 203.18046783781963
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 111.86999437387335
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 188.9208601604084
+        },
+        {
+            "city": "Okara",
+            "distance": 225.5536556498972
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 72.44008654069656
+        },
+        {
+            "city": "Khanewal",
+            "distance": 89.59813267267336
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 192.86000218504475
+        },
+        {
+            "city": "Khanpur",
+            "distance": 137.33283486692872
+        },
+        {
+            "city": "Vihari",
+            "distance": 89.26962632054895
+        },
+        {
+            "city": "Burewala",
+            "distance": 120.54960942924441
+        },
+        {
+            "city": "Kohlu",
+            "distance": 232.85748683589173
+        },
+        {
+            "city": "Barkhan",
+            "distance": 207.12556220653198
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 246.10702901514352
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 178.56080547054378
+        }
+    ],
+    "Jamshoro": [
+        {
+            "city": "Karachi",
+            "distance": 143.96288692661977
+        },
+        {
+            "city": "Larkana",
+            "distance": 235.7414149953945
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 91.17356302245922
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 73.86097888660342
+        },
+        {
+            "city": "Sanghar",
+            "distance": 95.18491032785337
+        },
+        {
+            "city": "Khairpur",
+            "distance": 237.52910203208535
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 43.755144413503466
+        },
+        {
+            "city": "Umerkot",
+            "distance": 146.33548604993047
+        },
+        {
+            "city": "Thatta",
+            "distance": 84.81518010583238
+        },
+        {
+            "city": "Badin",
+            "distance": 103.36523768184135
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 156.9107428371248
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 10.734973118574192
+        },
+        {
+            "city": "Tharparkar",
+            "distance": 221.31455554375282
+        }
+    ],
+    "Kohat": [
+        {
+            "city": "Islamabad",
+            "distance": 149.07577390356255
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 150.612115980298
+        },
+        {
+            "city": "Sargodha",
+            "distance": 202.78578233045388
+        },
+        {
+            "city": "Mardan",
+            "distance": 88.60289899995202
+        },
+        {
+            "city": "Mingora",
+            "distance": 157.30654963279048
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 201.43918502937083
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 220.8855618467951
+        },
+        {
+            "city": "Jhelum",
+            "distance": 224.59691720244368
+        },
+        {
+            "city": "Mianwali",
+            "distance": 112.02658591925903
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 206.2901802428361
+        },
+        {
+            "city": "Attock",
+            "distance": 86.3807327532855
+        },
+        {
+            "city": "Timargara",
+            "distance": 142.81162760722054
+        },
+        {
+            "city": "Kotli",
+            "distance": 229.46246977982523
+        },
+        {
+            "city": "Parachinar",
+            "distance": 128.7263645405714
+        },
+        {
+            "city": "Daggar",
+            "distance": 140.69586857647235
+        },
+        {
+            "city": "Bagh",
+            "distance": 220.46096826243465
+        },
+        {
+            "city": "Mansehra",
+            "distance": 182.32753006855413
+        },
+        {
+            "city": "Hangu",
+            "distance": 35.2692694411911
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 184.58061236090387
+        },
+        {
+            "city": "Bannu",
+            "distance": 103.0816436622453
+        }
+    ],
+    "Jacobabad": [
+        {
+            "city": "Sukkur",
+            "distance": 75.03521530923224
+        },
+        {
+            "city": "Larkana",
+            "distance": 83.52240294695575
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 181.18321860714332
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 225.60803753319092
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 39.94425589910999
+        },
+        {
+            "city": "Khairpur",
+            "distance": 88.57649620328172
+        },
+        {
+            "city": "Khanpur",
+            "distance": 218.88545970681994
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 18.44227692314869
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 36.60319552745456
+        },
+        {
+            "city": "Ghotki",
+            "distance": 90.00693837135387
+        },
+        {
+            "city": "Kohlu",
+            "distance": 196.26763185004666
+        },
+        {
+            "city": "Khuzdar",
+            "distance": 187.7087902988597
+        },
+        {
+            "city": "Barkhan",
+            "distance": 208.21800016002254
+        },
+        {
+            "city": "Mastung",
+            "distance": 230.34255956020584
+        },
+        {
+            "city": "Gandawah",
+            "distance": 101.6201655824723
+        },
+        {
+            "city": "Ziarat",
+            "distance": 244.34123599451843
+        },
+        {
+            "city": "Loralai",
+            "distance": 233.18744495334357
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 109.05118893624379
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 163.0813493868338
+        }
+    ],
+    "Shikarpur": [
+        {
+            "city": "Sukkur",
+            "distance": 35.402620262790414
+        },
+        {
+            "city": "Larkana",
+            "distance": 61.11080316658595
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 170.43440549432347
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 191.3929805865047
+        },
+        {
+            "city": "Sanghar",
+            "distance": 214.7029790709354
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 39.94425589910999
+        },
+        {
+            "city": "Khairpur",
+            "distance": 49.1824540625517
+        },
+        {
+            "city": "Khanpur",
+            "distance": 211.50723733664103
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 58.33361619277421
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 76.1627608475666
+        },
+        {
+            "city": "Ghotki",
+            "distance": 66.87658734018096
+        },
+        {
+            "city": "Kohlu",
+            "distance": 223.80903177174255
+        },
+        {
+            "city": "Khuzdar",
+            "distance": 199.42112728983028
+        },
+        {
+            "city": "Barkhan",
+            "distance": 232.3534661141644
+        },
+        {
+            "city": "Gandawah",
+            "distance": 134.38409435079225
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 130.29741342671474
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 134.36344457835952
+        }
+    ],
+    "Muzaffargarh": [
+        {
+            "city": "Faisalabad",
+            "distance": 240.72099621569967
+        },
+        {
+            "city": "Bhawalpur",
+            "distance": 88.25040949839276
+        },
+        {
+            "city": "Multan",
+            "distance": 30.19308874732463
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 203.12332420066534
+        },
+        {
+            "city": "Jhang",
+            "distance": 171.1783073423355
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 53.82879432222056
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 197.95332895254887
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 194.5174451891126
+        },
+        {
+            "city": "Okara",
+            "distance": 232.2617629225753
+        },
+        {
+            "city": "Lodhran",
+            "distance": 72.44008654069656
+        },
+        {
+            "city": "Khanewal",
+            "distance": 75.52718241103551
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 214.25649230950359
+        },
+        {
+            "city": "Khanpur",
+            "distance": 166.49345317074054
+        },
+        {
+            "city": "Vihari",
+            "distance": 111.52342411617578
+        },
+        {
+            "city": "Burewala",
+            "distance": 140.45988014964053
+        },
+        {
+            "city": "Kohlu",
+            "distance": 187.84057752478557
+        },
+        {
+            "city": "Barkhan",
+            "distance": 161.88002676069976
+        },
+        {
+            "city": "Zhob",
+            "distance": 218.7273325657728
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 227.96536451573982
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 158.71241850688529
+        }
+    ],
+    "Khanewal": [
+        {
+            "city": "Faisalabad",
+            "distance": 171.68655283718653
+        },
+        {
+            "city": "Bhawalpur",
+            "distance": 103.12838482215074
+        },
+        {
+            "city": "Multan",
+            "distance": 45.81539355079172
+        },
+        {
+            "city": "Sargodha",
+            "distance": 210.1988516496609
+        },
+        {
+            "city": "Jhang",
+            "distance": 113.58281505481983
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 127.70719740146625
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 196.48931797169027
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 118.99186181844054
+        },
+        {
+            "city": "Okara",
+            "distance": 156.75869065143218
+        },
+        {
+            "city": "Chiniot",
+            "distance": 186.53447959361645
+        },
+        {
+            "city": "Shahkot",
+            "distance": 204.11304921448505
+        },
+        {
+            "city": "Lodhran",
+            "distance": 89.59813267267336
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 75.52718241103551
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 140.941267821036
+        },
+        {
+            "city": "Khanpur",
+            "distance": 221.70355450105293
+        },
+        {
+            "city": "Vihari",
+            "distance": 49.63998228025343
+        },
+        {
+            "city": "Burewala",
+            "distance": 70.54067551640014
+        },
+        {
+            "city": "Barkhan",
+            "distance": 235.9325240890455
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 90.77759010500787
+        }
+    ],
+    "Khairpur": [
+        {
+            "city": "Sukkur",
+            "distance": 21.74333317608832
+        },
+        {
+            "city": "Larkana",
+            "distance": 54.0606909333002
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 180.31146726421264
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 146.62804866932927
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 224.1032406593566
+        },
+        {
+            "city": "Sanghar",
+            "distance": 165.8770844168204
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 237.52910203208535
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 88.57649620328172
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 49.1824540625517
+        },
+        {
+            "city": "Khanpur",
+            "distance": 223.26622490557403
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 229.36100950553927
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 106.66671584786359
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 123.82307017512673
+        },
+        {
+            "city": "Ghotki",
+            "distance": 76.1493351279041
+        },
+        {
+            "city": "Khuzdar",
+            "distance": 213.3820947270257
+        },
+        {
+            "city": "Gandawah",
+            "distance": 173.857757326137
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 172.0356656088744
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 99.48971398787033
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 242.2331093596918
+        }
+    ],
+    "Pakpattan": [
+        {
+            "city": "Lahore",
+            "distance": 159.05151564497032
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 124.94379529969123
+        },
+        {
+            "city": "Bhawalpur",
+            "distance": 196.3531473971076
+        },
+        {
+            "city": "Multan",
+            "distance": 186.00290849897394
+        },
+        {
+            "city": "Sargodha",
+            "distance": 204.8489498319248
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 161.273764884028
+        },
+        {
+            "city": "Jhang",
+            "distance": 145.25724228023867
+        },
+        {
+            "city": "Kasur",
+            "distance": 131.32382088451095
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 45.4545851796236
+        },
+        {
+            "city": "Okara",
+            "distance": 51.46795196970318
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 248.97146716912926
+        },
+        {
+            "city": "Chiniot",
+            "distance": 157.54597127561266
+        },
+        {
+            "city": "Shahkot",
+            "distance": 135.87209629059492
+        },
+        {
+            "city": "Kamoke",
+            "distance": 196.92035188800466
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 192.96410320055793
+        },
+        {
+            "city": "Lodhran",
+            "distance": 192.86000218504475
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 214.25649230950359
+        },
+        {
+            "city": "Khanewal",
+            "distance": 140.941267821036
+        },
+        {
+            "city": "Vihari",
+            "distance": 106.37562036343004
+        },
+        {
+            "city": "Burewala",
+            "distance": 74.86230268530932
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 243.2129598330571
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 111.31386186996392
+        }
+    ],
+    "Jhelum": [
+        {
+            "city": "Lahore",
+            "distance": 167.9825584759208
+        },
+        {
+            "city": "Islamabad",
+            "distance": 104.68855149664283
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 174.1121321583682
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 96.25367400919279
+        },
+        {
+            "city": "Sialkot",
+            "distance": 88.93060999016107
+        },
+        {
+            "city": "Sargodha",
+            "distance": 136.94307631420068
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 137.75029619213873
+        },
+        {
+            "city": "Jhang",
+            "distance": 227.8738043584805
+        },
+        {
+            "city": "Gujrat",
+            "distance": 51.8562959222646
+        },
+        {
+            "city": "Kasur",
+            "distance": 213.2854894540292
+        },
+        {
+            "city": "Mardan",
+            "distance": 209.73858395313664
+        },
+        {
+            "city": "Mingora",
+            "distance": 240.8601476673182
+        },
+        {
+            "city": "Okara",
+            "distance": 237.49754000858306
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 44.37634699497428
+        },
+        {
+            "city": "Chiniot",
+            "distance": 152.22530690236152
+        },
+        {
+            "city": "Shahkot",
+            "distance": 153.41642178739855
+        },
+        {
+            "city": "Kamoke",
+            "distance": 116.4016688192569
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 96.35600110503313
+        },
+        {
+            "city": "Kohat",
+            "distance": 224.59691720244368
+        },
+        {
+            "city": "Mianwali",
+            "distance": 207.33637557352523
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 161.48184624667718
+        },
+        {
+            "city": "Attock",
+            "distance": 157.97566580096068
+        },
+        {
+            "city": "Kotli",
+            "distance": 67.16565596753183
+        },
+        {
+            "city": "Daggar",
+            "distance": 209.71482098349557
+        },
+        {
+            "city": "Bagh",
+            "distance": 116.44398426646536
+        },
+        {
+            "city": "Mansehra",
+            "distance": 164.11877775592842
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 64.9406106782873
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 248.23901201820482
+        }
+    ],
+    "Khanpur": [
+        {
+            "city": "Bhawalpur",
+            "distance": 130.56914223772682
+        },
+        {
+            "city": "Multan",
+            "distance": 189.5901925334865
+        },
+        {
+            "city": "Sukkur",
+            "distance": 204.71309495046907
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 43.021273697634136
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 156.35812578802347
+        },
+        {
+            "city": "Lodhran",
+            "distance": 137.33283486692872
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 218.88545970681994
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 211.50723733664103
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 166.49345317074054
+        },
+        {
+            "city": "Khanewal",
+            "distance": 221.70355450105293
+        },
+        {
+            "city": "Khairpur",
+            "distance": 223.26622490557403
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 226.1738707601231
+        },
+        {
+            "city": "Vihari",
+            "distance": 226.1976549284793
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 237.92523092945132
+        },
+        {
+            "city": "Ghotki",
+            "distance": 148.84312047447906
+        },
+        {
+            "city": "Kohlu",
+            "distance": 193.78566002528123
+        },
+        {
+            "city": "Barkhan",
+            "distance": 176.48787989752392
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 151.44528478076535
+        }
+    ],
+    "Tando Allahyar": [
+        {
+            "city": "Karachi",
+            "distance": 185.34241434017483
+        },
+        {
+            "city": "Sukkur",
+            "distance": 249.30264939115074
+        },
+        {
+            "city": "Larkana",
+            "distance": 237.59467122312572
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 92.18572948143164
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 30.29412284385306
+        },
+        {
+            "city": "Sanghar",
+            "distance": 68.54006844144776
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 43.755144413503466
+        },
+        {
+            "city": "Khairpur",
+            "distance": 229.36100950553927
+        },
+        {
+            "city": "Umerkot",
+            "distance": 103.10607699277506
+        },
+        {
+            "city": "Thatta",
+            "distance": 113.10378506651082
+        },
+        {
+            "city": "Badin",
+            "distance": 91.08013755801018
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 163.90618988533987
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 36.316409208533855
+        },
+        {
+            "city": "Tharparkar",
+            "distance": 181.21110175529654
+        }
+    ],
+    "Dera Allahyar": [
+        {
+            "city": "Sukkur",
+            "distance": 93.477229801807
+        },
+        {
+            "city": "Larkana",
+            "distance": 96.67396152003082
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 190.27888180421496
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 241.18668777102712
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 18.44227692314869
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 58.33361619277421
+        },
+        {
+            "city": "Khairpur",
+            "distance": 106.66671584786359
+        },
+        {
+            "city": "Khanpur",
+            "distance": 226.1738707601231
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 18.380931947126918
+        },
+        {
+            "city": "Ghotki",
+            "distance": 105.12823283405454
+        },
+        {
+            "city": "Kohlu",
+            "distance": 186.51041184441442
+        },
+        {
+            "city": "Khuzdar",
+            "distance": 183.30933067807075
+        },
+        {
+            "city": "Barkhan",
+            "distance": 200.32231640777488
+        },
+        {
+            "city": "Mastung",
+            "distance": 212.1908180795134
+        },
+        {
+            "city": "Gandawah",
+            "distance": 87.29704362243426
+        },
+        {
+            "city": "Ziarat",
+            "distance": 226.66605113356155
+        },
+        {
+            "city": "Loralai",
+            "distance": 218.54305450947635
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 104.7131952583554
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 176.77902107039728
+        }
+    ],
+    "Vihari": [
+        {
+            "city": "Faisalabad",
+            "distance": 173.58548679330477
+        },
+        {
+            "city": "Bhawalpur",
+            "distance": 96.24779341070273
+        },
+        {
+            "city": "Multan",
+            "distance": 86.5043384975842
+        },
+        {
+            "city": "Sargodha",
+            "distance": 229.0713025461961
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 242.1149579056868
+        },
+        {
+            "city": "Jhang",
+            "distance": 136.41957647394284
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 165.30620260851245
+        },
+        {
+            "city": "Kasur",
+            "distance": 233.34043456883623
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 242.45847989860948
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 99.89082232227244
+        },
+        {
+            "city": "Okara",
+            "distance": 136.28699079128955
+        },
+        {
+            "city": "Chiniot",
+            "distance": 195.94879713272948
+        },
+        {
+            "city": "Shahkot",
+            "distance": 201.19557199358098
+        },
+        {
+            "city": "Lodhran",
+            "distance": 89.26962632054895
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 111.52342411617578
+        },
+        {
+            "city": "Khanewal",
+            "distance": 49.63998228025343
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 106.37562036343004
+        },
+        {
+            "city": "Khanpur",
+            "distance": 226.1976549284793
+        },
+        {
+            "city": "Burewala",
+            "distance": 31.841131983716295
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 103.61930586870258
+        }
+    ],
+    "Umerkot": [
+        {
+            "city": "Nawabshah",
+            "distance": 165.44040940003188
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 75.09336614441145
+        },
+        {
+            "city": "Sanghar",
+            "distance": 109.69537787973974
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 146.33548604993047
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 103.10607699277506
+        },
+        {
+            "city": "Thatta",
+            "distance": 195.01353156241026
+        },
+        {
+            "city": "Badin",
+            "distance": 119.90127288062143
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 230.3897394989931
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 137.4975311532026
+        },
+        {
+            "city": "Tharparkar",
+            "distance": 86.46488236585493
+        }
+    ],
+    "Burewala": [
+        {
+            "city": "Lahore",
+            "distance": 221.95741060671332
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 150.06748773676537
+        },
+        {
+            "city": "Bhawalpur",
+            "distance": 126.37826128345965
+        },
+        {
+            "city": "Multan",
+            "distance": 113.36846519136338
+        },
+        {
+            "city": "Sargodha",
+            "distance": 213.15901539055264
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 213.57418920458716
+        },
+        {
+            "city": "Jhang",
+            "distance": 126.52361265849547
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 194.2279449378247
+        },
+        {
+            "city": "Kasur",
+            "distance": 201.6588522653209
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 249.13165730663678
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 70.37787870224788
+        },
+        {
+            "city": "Okara",
+            "distance": 105.52802795648688
+        },
+        {
+            "city": "Chiniot",
+            "distance": 175.5336248674182
+        },
+        {
+            "city": "Shahkot",
+            "distance": 174.99521706180755
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 233.34279954202003
+        },
+        {
+            "city": "Lodhran",
+            "distance": 120.54960942924441
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 140.45988014964053
+        },
+        {
+            "city": "Khanewal",
+            "distance": 70.54067551640014
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 74.86230268530932
+        },
+        {
+            "city": "Vihari",
+            "distance": 31.841131983716295
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 90.37634733331356
+        }
+    ],
+    "Mianwali": [
+        {
+            "city": "Islamabad",
+            "distance": 185.5870089807542
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 195.44367606079882
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 181.08634944234007
+        },
+        {
+            "city": "Sargodha",
+            "distance": 119.08793789272346
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 248.23989412917473
+        },
+        {
+            "city": "Jhang",
+            "distance": 163.2118803575728
+        },
+        {
+            "city": "Gujrat",
+            "distance": 236.9630210548203
+        },
+        {
+            "city": "Mardan",
+            "distance": 185.91539310243832
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 103.31765412655102
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 181.88161940626998
+        },
+        {
+            "city": "Chiniot",
+            "distance": 165.21012856243706
+        },
+        {
+            "city": "Shahkot",
+            "distance": 213.91564019270012
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 208.90459414812958
+        },
+        {
+            "city": "Kohat",
+            "distance": 112.02658591925903
+        },
+        {
+            "city": "Jhelum",
+            "distance": 207.33637557352523
+        },
+        {
+            "city": "Attock",
+            "distance": 151.1909423450202
+        },
+        {
+            "city": "Kotli",
+            "distance": 243.77213503067745
+        },
+        {
+            "city": "Parachinar",
+            "distance": 198.63741508323793
+        },
+        {
+            "city": "Zhob",
+            "distance": 241.60661768833813
+        },
+        {
+            "city": "Daggar",
+            "distance": 231.1980023455642
+        },
+        {
+            "city": "Mansehra",
+            "distance": 248.13461008322764
+        },
+        {
+            "city": "Hangu",
+            "distance": 114.8362041437061
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 241.1128263264324
+        },
+        {
+            "city": "Bannu",
+            "distance": 99.32469624889598
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 200.23783297858105
+        }
+    ],
+    "Muzaffarabad": [
+        {
+            "city": "Islamabad",
+            "distance": 85.58550252228159
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 93.23036194339969
+        },
+        {
+            "city": "Gilgit",
+            "distance": 188.53763892717964
+        },
+        {
+            "city": "Sialkot",
+            "distance": 230.26736985436386
+        },
+        {
+            "city": "Gujrat",
+            "distance": 207.66814165418444
+        },
+        {
+            "city": "Mardan",
+            "distance": 131.60929777517987
+        },
+        {
+            "city": "Mingora",
+            "distance": 111.18071550132532
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 198.19256165238
+        },
+        {
+            "city": "Kohat",
+            "distance": 206.2901802428361
+        },
+        {
+            "city": "Jhelum",
+            "distance": 161.48184624667718
+        },
+        {
+            "city": "Attock",
+            "distance": 123.05559072862876
+        },
+        {
+            "city": "Timargara",
+            "distance": 157.7233523297621
+        },
+        {
+            "city": "Kotli",
+            "distance": 103.44371747006281
+        },
+        {
+            "city": "Chilas",
+            "distance": 129.79736705894734
+        },
+        {
+            "city": "Daggar",
+            "distance": 91.70757118709572
+        },
+        {
+            "city": "Bagh",
+            "distance": 51.9027508567496
+        },
+        {
+            "city": "Mansehra",
+            "distance": 25.27274812469183
+        },
+        {
+            "city": "Hangu",
+            "distance": 240.39708959525228
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 172.76963176436558
+        },
+        {
+            "city": "Astore",
+            "distance": 169.84816930577676
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 221.77066152724285
+        }
+    ],
+    "Attock": [
+        {
+            "city": "Islamabad",
+            "distance": 65.1882859935498
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 68.94163216950572
+        },
+        {
+            "city": "Sialkot",
+            "distance": 246.81866664942996
+        },
+        {
+            "city": "Sargodha",
+            "distance": 189.536234923209
+        },
+        {
+            "city": "Gujrat",
+            "distance": 208.61285707192621
+        },
+        {
+            "city": "Mardan",
+            "distance": 55.64816117097335
+        },
+        {
+            "city": "Mingora",
+            "distance": 112.59026241021454
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 168.7254931670957
+        },
+        {
+            "city": "Chiniot",
+            "distance": 235.04482385396378
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 226.45569769294175
+        },
+        {
+            "city": "Kohat",
+            "distance": 86.3807327532855
+        },
+        {
+            "city": "Jhelum",
+            "distance": 157.97566580096068
+        },
+        {
+            "city": "Mianwali",
+            "distance": 151.1909423450202
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 123.05559072862876
+        },
+        {
+            "city": "Timargara",
+            "distance": 127.02783599643573
+        },
+        {
+            "city": "Kotli",
+            "distance": 147.67072499006454
+        },
+        {
+            "city": "Parachinar",
+            "distance": 208.31270683124552
+        },
+        {
+            "city": "Chilas",
+            "distance": 243.55299026644892
+        },
+        {
+            "city": "Daggar",
+            "distance": 83.6966666725508
+        },
+        {
+            "city": "Bagh",
+            "distance": 134.1328001837785
+        },
+        {
+            "city": "Mansehra",
+            "distance": 100.87879503022249
+        },
+        {
+            "city": "Hangu",
+            "distance": 121.58711839531722
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 165.9850513876525
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 220.25030699020172
+        },
+        {
+            "city": "Bannu",
+            "distance": 184.3721282042225
+        }
+    ],
+    "Chaman": [
+        {
+            "city": "Qila Saifullah",
+            "distance": 206.7385328002946
+        },
+        {
+            "city": "Mastung",
+            "distance": 129.85798426452527
+        },
+        {
+            "city": "Ziarat",
+            "distance": 135.73107013456107
+        },
+        {
+            "city": "Loralai",
+            "distance": 214.47539658705165
+        }
+    ],
+    "Timargara": [
+        {
+            "city": "Islamabad",
+            "distance": 168.87227419473155
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 177.19012030430437
+        },
+        {
+            "city": "Mardan",
+            "distance": 72.3298103447306
+        },
+        {
+            "city": "Mingora",
+            "distance": 48.04461755920223
+        },
+        {
+            "city": "Kohat",
+            "distance": 142.81162760722054
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 157.7233523297621
+        },
+        {
+            "city": "Attock",
+            "distance": 127.02783599643573
+        },
+        {
+            "city": "Kotli",
+            "distance": 240.40301416748403
+        },
+        {
+            "city": "Parachinar",
+            "distance": 190.40352478208303
+        },
+        {
+            "city": "Chilas",
+            "distance": 215.76956574289994
+        },
+        {
+            "city": "Daggar",
+            "distance": 68.76625832175647
+        },
+        {
+            "city": "Bagh",
+            "distance": 201.492641089809
+        },
+        {
+            "city": "Mansehra",
+            "distance": 135.53834620373883
+        },
+        {
+            "city": "Hangu",
+            "distance": 160.5750975011846
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 42.300981447872665
+        },
+        {
+            "city": "Bannu",
+            "distance": 234.87070749084216
+        }
+    ],
+    "Gwadar": [
+        {
+            "city": "Turbat",
+            "distance": 122.24343261289133
+        }
+    ],
+    "Kotli": [
+        {
+            "city": "Lahore",
+            "distance": 225.8130287970758
+        },
+        {
+            "city": "Islamabad",
+            "distance": 82.59697882568885
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 241.17503405992747
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 79.20305699972306
+        },
+        {
+            "city": "Sialkot",
+            "distance": 126.91428655455427
+        },
+        {
+            "city": "Sargodha",
+            "distance": 197.34704148301054
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 200.63412662506855
+        },
+        {
+            "city": "Gujrat",
+            "distance": 106.04143598012544
+        },
+        {
+            "city": "Mardan",
+            "distance": 188.2810098422615
+        },
+        {
+            "city": "Mingora",
+            "distance": 200.4347445500838
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 110.64699720788099
+        },
+        {
+            "city": "Chiniot",
+            "distance": 218.25775636885638
+        },
+        {
+            "city": "Shahkot",
+            "distance": 220.29880021650365
+        },
+        {
+            "city": "Kamoke",
+            "distance": 173.89329256520492
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 162.52227440103772
+        },
+        {
+            "city": "Kohat",
+            "distance": 229.46246977982523
+        },
+        {
+            "city": "Jhelum",
+            "distance": 67.16565596753183
+        },
+        {
+            "city": "Mianwali",
+            "distance": 243.77213503067745
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 103.44371747006281
+        },
+        {
+            "city": "Attock",
+            "distance": 147.67072499006454
+        },
+        {
+            "city": "Timargara",
+            "distance": 240.40301416748403
+        },
+        {
+            "city": "Chilas",
+            "distance": 211.937442568275
+        },
+        {
+            "city": "Daggar",
+            "distance": 172.17858668616054
+        },
+        {
+            "city": "Bagh",
+            "distance": 53.044321237720986
+        },
+        {
+            "city": "Mansehra",
+            "distance": 113.27323751649269
+        },
+        {
+            "city": "Astore",
+            "distance": 224.3455008636847
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 120.06953562364484
+        }
+    ],
+    "Turbat": [
+        {
+            "city": "Gwadar",
+            "distance": 122.24343261289133
+        },
+        {
+            "city": "Awaran",
+            "distance": 221.57458241150894
+        }
+    ],
+    "Dera Murad Jamali": [
+        {
+            "city": "Sukkur",
+            "distance": 111.4753880400323
+        },
+        {
+            "city": "Larkana",
+            "distance": 108.71555661509524
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 203.59083301242737
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 36.60319552745456
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 76.1627608475666
+        },
+        {
+            "city": "Khairpur",
+            "distance": 123.82307017512673
+        },
+        {
+            "city": "Khanpur",
+            "distance": 237.92523092945132
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 18.380931947126918
+        },
+        {
+            "city": "Ghotki",
+            "distance": 122.61762495862412
+        },
+        {
+            "city": "Kohlu",
+            "distance": 181.97548512772408
+        },
+        {
+            "city": "Khuzdar",
+            "distance": 176.76955823457908
+        },
+        {
+            "city": "Barkhan",
+            "distance": 197.81390659643554
+        },
+        {
+            "city": "Qila Saifullah",
+            "distance": 243.75794313334328
+        },
+        {
+            "city": "Mastung",
+            "distance": 193.8211618709203
+        },
+        {
+            "city": "Gandawah",
+            "distance": 72.00349154672493
+        },
+        {
+            "city": "Ziarat",
+            "distance": 210.90816184607147
+        },
+        {
+            "city": "Loralai",
+            "distance": 207.57588825245477
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 107.50336454089494
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 188.52692625058324
+        }
+    ],
+    "Parachinar": [
+        {
+            "city": "Mardan",
+            "distance": 183.0479090903971
+        },
+        {
+            "city": "Mingora",
+            "distance": 229.7785548027308
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 241.2289214438359
+        },
+        {
+            "city": "Kohat",
+            "distance": 128.7263645405714
+        },
+        {
+            "city": "Mianwali",
+            "distance": 198.63741508323793
+        },
+        {
+            "city": "Attock",
+            "distance": 208.31270683124552
+        },
+        {
+            "city": "Timargara",
+            "distance": 190.40352478208303
+        },
+        {
+            "city": "Daggar",
+            "distance": 229.75014290245738
+        },
+        {
+            "city": "Hangu",
+            "distance": 98.04228899047587
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 218.54737431350406
+        },
+        {
+            "city": "Bannu",
+            "distance": 111.48774866279162
+        }
+    ],
+    "Ghotki": [
+        {
+            "city": "Sukkur",
+            "distance": 56.2111078997898
+        },
+        {
+            "city": "Larkana",
+            "distance": 119.47525040888837
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 106.39931888135469
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 215.1148662565789
+        },
+        {
+            "city": "Sanghar",
+            "distance": 220.94519634040122
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 90.00693837135387
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 66.87658734018096
+        },
+        {
+            "city": "Khairpur",
+            "distance": 76.1493351279041
+        },
+        {
+            "city": "Khanpur",
+            "distance": 148.84312047447906
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 105.12823283405454
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 122.61762495862412
+        },
+        {
+            "city": "Kohlu",
+            "distance": 210.28026867487145
+        },
+        {
+            "city": "Barkhan",
+            "distance": 211.25593134191757
+        },
+        {
+            "city": "Gandawah",
+            "distance": 191.5813095988067
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 115.52935694607486
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 175.41134372676734
+        }
+    ],
+    "Kohlu": [
+        {
+            "city": "Bhawalpur",
+            "distance": 241.17353862797344
+        },
+        {
+            "city": "Multan",
+            "distance": 216.01595076610639
+        },
+        {
+            "city": "Sukkur",
+            "distance": 246.72666562505893
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 192.84083426438048
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 134.18389354000618
+        },
+        {
+            "city": "Lodhran",
+            "distance": 232.85748683589173
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 196.26763185004666
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 223.80903177174255
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 187.84057752478557
+        },
+        {
+            "city": "Khanpur",
+            "distance": 193.78566002528123
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 186.51041184441442
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 181.97548512772408
+        },
+        {
+            "city": "Ghotki",
+            "distance": 210.28026867487145
+        },
+        {
+            "city": "Barkhan",
+            "distance": 26.13346037008307
+        },
+        {
+            "city": "Qila Saifullah",
+            "distance": 109.17701857510045
+        },
+        {
+            "city": "Zhob",
+            "distance": 161.74761395081933
+        },
+        {
+            "city": "Mastung",
+            "distance": 232.57132960071618
+        },
+        {
+            "city": "Gandawah",
+            "distance": 223.18344519940896
+        },
+        {
+            "city": "Ziarat",
+            "distance": 156.57703572692844
+        },
+        {
+            "city": "Loralai",
+            "distance": 82.00083239777064
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 96.1352811682476
+        }
+    ],
+    "Khuzdar": [
+        {
+            "city": "Sukkur",
+            "distance": 220.74210676787675
+        },
+        {
+            "city": "Larkana",
+            "distance": 159.63676977464084
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 247.59371506203027
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 187.7087902988597
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 199.42112728983028
+        },
+        {
+            "city": "Khairpur",
+            "distance": 213.3820947270257
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 183.30933067807075
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 176.76955823457908
+        },
+        {
+            "city": "Awaran",
+            "distance": 202.8091421508344
+        },
+        {
+            "city": "Mastung",
+            "distance": 223.46630520053435
+        },
+        {
+            "city": "Gandawah",
+            "distance": 124.1678943829068
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 182.89376816592727
+        }
+    ],
+    "Awaran": [
+        {
+            "city": "Turbat",
+            "distance": 221.57458241150894
+        },
+        {
+            "city": "Khuzdar",
+            "distance": 202.8091421508344
+        }
+    ],
+    "Barkhan": [
+        {
+            "city": "Bhawalpur",
+            "distance": 215.77828084177398
+        },
+        {
+            "city": "Multan",
+            "distance": 190.26516216938373
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 180.51069940995575
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 108.3405785251694
+        },
+        {
+            "city": "Lodhran",
+            "distance": 207.12556220653198
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 208.21800016002254
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 232.3534661141644
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 161.88002676069976
+        },
+        {
+            "city": "Khanewal",
+            "distance": 235.9325240890455
+        },
+        {
+            "city": "Khanpur",
+            "distance": 176.48787989752392
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 200.32231640777488
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 197.81390659643554
+        },
+        {
+            "city": "Ghotki",
+            "distance": 211.25593134191757
+        },
+        {
+            "city": "Kohlu",
+            "distance": 26.13346037008307
+        },
+        {
+            "city": "Qila Saifullah",
+            "distance": 125.89235714938916
+        },
+        {
+            "city": "Zhob",
+            "distance": 160.75620362597053
+        },
+        {
+            "city": "Gandawah",
+            "distance": 244.03455902404409
+        },
+        {
+            "city": "Ziarat",
+            "distance": 181.24972061635307
+        },
+        {
+            "city": "Loralai",
+            "distance": 103.31152414003633
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 102.13012523510785
+        }
+    ],
+    "Chilas": [
+        {
+            "city": "Islamabad",
+            "distance": 215.3741083962931
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 222.97396327667943
+        },
+        {
+            "city": "Gilgit",
+            "distance": 59.131916864660994
+        },
+        {
+            "city": "Mardan",
+            "distance": 230.65655004606666
+        },
+        {
+            "city": "Mingora",
+            "distance": 173.2761727192004
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 129.79736705894734
+        },
+        {
+            "city": "Attock",
+            "distance": 243.55299026644892
+        },
+        {
+            "city": "Timargara",
+            "distance": 215.76956574289994
+        },
+        {
+            "city": "Kotli",
+            "distance": 211.937442568275
+        },
+        {
+            "city": "Daggar",
+            "distance": 178.3395808986868
+        },
+        {
+            "city": "Bagh",
+            "distance": 162.40988932125416
+        },
+        {
+            "city": "Mansehra",
+            "distance": 145.15753150168663
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 203.09439524181724
+        },
+        {
+            "city": "Astore",
+            "distance": 70.28523231666323
+        }
+    ],
+    "Qila Saifullah": [
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 207.90829151470288
+        },
+        {
+            "city": "Chaman",
+            "distance": 206.7385328002946
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 243.75794313334328
+        },
+        {
+            "city": "Kohlu",
+            "distance": 109.17701857510045
+        },
+        {
+            "city": "Barkhan",
+            "distance": 125.89235714938916
+        },
+        {
+            "city": "Zhob",
+            "distance": 107.80803876715943
+        },
+        {
+            "city": "Mastung",
+            "distance": 196.05519453342768
+        },
+        {
+            "city": "Ziarat",
+            "distance": 90.99121960305219
+        },
+        {
+            "city": "Loralai",
+            "distance": 36.69432579270419
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 192.70529854051938
+        }
+    ],
+    "Zhob": [
+        {
+            "city": "Multan",
+            "distance": 231.37191462348028
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 182.50473508254134
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 148.18357672861293
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 218.7273325657728
+        },
+        {
+            "city": "Mianwali",
+            "distance": 241.60661768833813
+        },
+        {
+            "city": "Kohlu",
+            "distance": 161.74761395081933
+        },
+        {
+            "city": "Barkhan",
+            "distance": 160.75620362597053
+        },
+        {
+            "city": "Qila Saifullah",
+            "distance": 107.80803876715943
+        },
+        {
+            "city": "Ziarat",
+            "distance": 196.10765561322137
+        },
+        {
+            "city": "Loralai",
+            "distance": 135.0111446359494
+        },
+        {
+            "city": "Bannu",
+            "distance": 212.30896092604456
+        }
+    ],
+    "Mastung": [
+        {
+            "city": "Jacobabad",
+            "distance": 230.34255956020584
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 212.1908180795134
+        },
+        {
+            "city": "Chaman",
+            "distance": 129.85798426452527
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 193.8211618709203
+        },
+        {
+            "city": "Kohlu",
+            "distance": 232.57132960071618
+        },
+        {
+            "city": "Khuzdar",
+            "distance": 223.46630520053435
+        },
+        {
+            "city": "Qila Saifullah",
+            "distance": 196.05519453342768
+        },
+        {
+            "city": "Gandawah",
+            "distance": 145.81362247149173
+        },
+        {
+            "city": "Ziarat",
+            "distance": 106.52416000054588
+        },
+        {
+            "city": "Loralai",
+            "distance": 180.36981780170473
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 239.65699442234268
+        }
+    ],
+    "Daggar": [
+        {
+            "city": "Islamabad",
+            "distance": 105.54325421122203
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 114.60498249685511
+        },
+        {
+            "city": "Gilgit",
+            "distance": 228.06486941033683
+        },
+        {
+            "city": "Mardan",
+            "distance": 52.533477062607865
+        },
+        {
+            "city": "Mingora",
+            "distance": 31.85443233593585
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 233.32603970954565
+        },
+        {
+            "city": "Kohat",
+            "distance": 140.69586857647235
+        },
+        {
+            "city": "Jhelum",
+            "distance": 209.71482098349557
+        },
+        {
+            "city": "Mianwali",
+            "distance": 231.1980023455642
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 91.70757118709572
+        },
+        {
+            "city": "Attock",
+            "distance": 83.6966666725508
+        },
+        {
+            "city": "Timargara",
+            "distance": 68.76625832175647
+        },
+        {
+            "city": "Kotli",
+            "distance": 172.17858668616054
+        },
+        {
+            "city": "Parachinar",
+            "distance": 229.75014290245738
+        },
+        {
+            "city": "Chilas",
+            "distance": 178.3395808986868
+        },
+        {
+            "city": "Bagh",
+            "distance": 132.9006242964404
+        },
+        {
+            "city": "Mansehra",
+            "distance": 67.96899138025151
+        },
+        {
+            "city": "Hangu",
+            "distance": 169.9954126430062
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 95.27211432084333
+        },
+        {
+            "city": "Astore",
+            "distance": 237.92307128469858
+        },
+        {
+            "city": "Bannu",
+            "distance": 243.3527147318445
+        }
+    ],
+    "Thatta": [
+        {
+            "city": "Karachi",
+            "distance": 94.01253101784157
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 174.00133501981952
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 139.65067602228387
+        },
+        {
+            "city": "Sanghar",
+            "distance": 177.50406207770354
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 84.81518010583238
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 113.10378506651082
+        },
+        {
+            "city": "Umerkot",
+            "distance": 195.01353156241026
+        },
+        {
+            "city": "Badin",
+            "distance": 92.89710958787285
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 233.6571817290266
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 83.42327299064918
+        },
+        {
+            "city": "Tharparkar",
+            "distance": 248.52162988769888
+        }
+    ],
+    "Gandawah": [
+        {
+            "city": "Sukkur",
+            "distance": 168.2163004244614
+        },
+        {
+            "city": "Larkana",
+            "distance": 137.6570173302667
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 101.6201655824723
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 134.38409435079225
+        },
+        {
+            "city": "Khairpur",
+            "distance": 173.857757326137
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 87.29704362243426
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 72.00349154672493
+        },
+        {
+            "city": "Ghotki",
+            "distance": 191.5813095988067
+        },
+        {
+            "city": "Kohlu",
+            "distance": 223.18344519940896
+        },
+        {
+            "city": "Khuzdar",
+            "distance": 124.1678943829068
+        },
+        {
+            "city": "Barkhan",
+            "distance": 244.03455902404409
+        },
+        {
+            "city": "Mastung",
+            "distance": 145.81362247149173
+        },
+        {
+            "city": "Ziarat",
+            "distance": 197.937762176774
+        },
+        {
+            "city": "Loralai",
+            "distance": 223.16034963745355
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 169.70741868021656
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 206.84912107167926
+        }
+    ],
+    "Bagh": [
+        {
+            "city": "Islamabad",
+            "distance": 75.18649951537898
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 78.1617339798847
+        },
+        {
+            "city": "Gilgit",
+            "distance": 221.11643094456718
+        },
+        {
+            "city": "Sialkot",
+            "distance": 179.0214035351152
+        },
+        {
+            "city": "Sargodha",
+            "distance": 234.84056997446922
+        },
+        {
+            "city": "Gujrat",
+            "distance": 158.92286060881258
+        },
+        {
+            "city": "Mardan",
+            "distance": 161.02407024448556
+        },
+        {
+            "city": "Mingora",
+            "distance": 157.57690099430022
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 157.12511092565936
+        },
+        {
+            "city": "Kamoke",
+            "distance": 226.8316540647696
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 212.79983146385882
+        },
+        {
+            "city": "Kohat",
+            "distance": 220.46096826243465
+        },
+        {
+            "city": "Jhelum",
+            "distance": 116.44398426646536
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 51.9027508567496
+        },
+        {
+            "city": "Attock",
+            "distance": 134.1328001837785
+        },
+        {
+            "city": "Timargara",
+            "distance": 201.492641089809
+        },
+        {
+            "city": "Kotli",
+            "distance": 53.044321237720986
+        },
+        {
+            "city": "Chilas",
+            "distance": 162.40988932125416
+        },
+        {
+            "city": "Daggar",
+            "distance": 132.9006242964404
+        },
+        {
+            "city": "Mansehra",
+            "distance": 67.07270230486361
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 221.33295692939785
+        },
+        {
+            "city": "Astore",
+            "distance": 184.42422015256562
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 172.9872363978067
+        }
+    ],
+    "Badin": [
+        {
+            "city": "Karachi",
+            "distance": 186.88355539375604
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 182.31528043625812
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 98.41050366523962
+        },
+        {
+            "city": "Sanghar",
+            "distance": 155.13815301054578
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 103.36523768184135
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 91.08013755801018
+        },
+        {
+            "city": "Umerkot",
+            "distance": 119.90127288062143
+        },
+        {
+            "city": "Thatta",
+            "distance": 92.89710958787285
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 93.40541630334339
+        },
+        {
+            "city": "Tharparkar",
+            "distance": 157.54100905184066
+        }
+    ],
+    "Mansehra": [
+        {
+            "city": "Islamabad",
+            "distance": 74.38761739599656
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 83.27041025805471
+        },
+        {
+            "city": "Gilgit",
+            "distance": 202.58446440855505
+        },
+        {
+            "city": "Sialkot",
+            "distance": 239.43010623116788
+        },
+        {
+            "city": "Gujrat",
+            "distance": 213.0574927339598
+        },
+        {
+            "city": "Mardan",
+            "distance": 106.33916101553228
+        },
+        {
+            "city": "Mingora",
+            "distance": 90.5984458402776
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 196.9614969458516
+        },
+        {
+            "city": "Kohat",
+            "distance": 182.32753006855413
+        },
+        {
+            "city": "Jhelum",
+            "distance": 164.11877775592842
+        },
+        {
+            "city": "Mianwali",
+            "distance": 248.13461008322764
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 25.27274812469183
+        },
+        {
+            "city": "Attock",
+            "distance": 100.87879503022249
+        },
+        {
+            "city": "Timargara",
+            "distance": 135.53834620373883
+        },
+        {
+            "city": "Kotli",
+            "distance": 113.27323751649269
+        },
+        {
+            "city": "Chilas",
+            "distance": 145.15753150168663
+        },
+        {
+            "city": "Daggar",
+            "distance": 67.96899138025151
+        },
+        {
+            "city": "Bagh",
+            "distance": 67.07270230486361
+        },
+        {
+            "city": "Hangu",
+            "distance": 216.09321177046058
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 154.29678485368657
+        },
+        {
+            "city": "Astore",
+            "distance": 191.22423351689073
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 227.0392717916296
+        }
+    ],
+    "Ziarat": [
+        {
+            "city": "Jacobabad",
+            "distance": 244.34123599451843
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 226.66605113356155
+        },
+        {
+            "city": "Chaman",
+            "distance": 135.73107013456107
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 210.90816184607147
+        },
+        {
+            "city": "Kohlu",
+            "distance": 156.57703572692844
+        },
+        {
+            "city": "Barkhan",
+            "distance": 181.24972061635307
+        },
+        {
+            "city": "Qila Saifullah",
+            "distance": 90.99121960305219
+        },
+        {
+            "city": "Zhob",
+            "distance": 196.10765561322137
+        },
+        {
+            "city": "Mastung",
+            "distance": 106.52416000054588
+        },
+        {
+            "city": "Gandawah",
+            "distance": 197.937762176774
+        },
+        {
+            "city": "Loralai",
+            "distance": 83.9486187415628
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 203.8220127055547
+        }
+    ],
+    "Loralai": [
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 198.6123779546288
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 233.18744495334357
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 218.54305450947635
+        },
+        {
+            "city": "Chaman",
+            "distance": 214.47539658705165
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 207.57588825245477
+        },
+        {
+            "city": "Kohlu",
+            "distance": 82.00083239777064
+        },
+        {
+            "city": "Barkhan",
+            "distance": 103.31152414003633
+        },
+        {
+            "city": "Qila Saifullah",
+            "distance": 36.69432579270419
+        },
+        {
+            "city": "Zhob",
+            "distance": 135.0111446359494
+        },
+        {
+            "city": "Mastung",
+            "distance": 180.36981780170473
+        },
+        {
+            "city": "Gandawah",
+            "distance": 223.16034963745355
+        },
+        {
+            "city": "Ziarat",
+            "distance": 83.9486187415628
+        },
+        {
+            "city": "Dera Bugti",
+            "distance": 157.83971738989578
+        }
+    ],
+    "Dera Bugti": [
+        {
+            "city": "Bhawalpur",
+            "distance": 248.30021256137954
+        },
+        {
+            "city": "Sukkur",
+            "distance": 150.90041736501456
+        },
+        {
+            "city": "Larkana",
+            "distance": 188.8261503317288
+        },
+        {
+            "city": "Rahim Yar Khan",
+            "distance": 130.2955807531464
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 182.33521770369984
+        },
+        {
+            "city": "Lodhran",
+            "distance": 246.10702901514352
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 109.05118893624379
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 130.29741342671474
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 227.96536451573982
+        },
+        {
+            "city": "Khairpur",
+            "distance": 172.0356656088744
+        },
+        {
+            "city": "Khanpur",
+            "distance": 151.44528478076535
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 104.7131952583554
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 107.50336454089494
+        },
+        {
+            "city": "Ghotki",
+            "distance": 115.52935694607486
+        },
+        {
+            "city": "Kohlu",
+            "distance": 96.1352811682476
+        },
+        {
+            "city": "Barkhan",
+            "distance": 102.13012523510785
+        },
+        {
+            "city": "Qila Saifullah",
+            "distance": 192.70529854051938
+        },
+        {
+            "city": "Mastung",
+            "distance": 239.65699442234268
+        },
+        {
+            "city": "Gandawah",
+            "distance": 169.70741868021656
+        },
+        {
+            "city": "Ziarat",
+            "distance": 203.8220127055547
+        },
+        {
+            "city": "Loralai",
+            "distance": 157.83971738989578
+        }
+    ],
+    "Hangu": [
+        {
+            "city": "Islamabad",
+            "distance": 184.23798982782412
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 185.56376665062547
+        },
+        {
+            "city": "Sargodha",
+            "distance": 220.1481823523856
+        },
+        {
+            "city": "Mardan",
+            "distance": 117.484486230338
+        },
+        {
+            "city": "Mingora",
+            "distance": 182.74761931654325
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 189.6999835649455
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 249.2098991081489
+        },
+        {
+            "city": "Kohat",
+            "distance": 35.2692694411911
+        },
+        {
+            "city": "Mianwali",
+            "distance": 114.8362041437061
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 240.39708959525228
+        },
+        {
+            "city": "Attock",
+            "distance": 121.58711839531722
+        },
+        {
+            "city": "Timargara",
+            "distance": 160.5750975011846
+        },
+        {
+            "city": "Parachinar",
+            "distance": 98.04228899047587
+        },
+        {
+            "city": "Daggar",
+            "distance": 169.9954126430062
+        },
+        {
+            "city": "Mansehra",
+            "distance": 216.09321177046058
+        },
+        {
+            "city": "Upper Dir",
+            "distance": 200.44509362568468
+        },
+        {
+            "city": "Bannu",
+            "distance": 74.98843741673808
+        }
+    ],
+    "Upper Dir": [
+        {
+            "city": "Islamabad",
+            "distance": 200.55259849773728
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 209.4505800627665
+        },
+        {
+            "city": "Gilgit",
+            "distance": 233.83104031081615
+        },
+        {
+            "city": "Mardan",
+            "distance": 112.9638636801426
+        },
+        {
+            "city": "Mingora",
+            "distance": 64.99850800179365
+        },
+        {
+            "city": "Kohat",
+            "distance": 184.58061236090387
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 172.76963176436558
+        },
+        {
+            "city": "Attock",
+            "distance": 165.9850513876525
+        },
+        {
+            "city": "Timargara",
+            "distance": 42.300981447872665
+        },
+        {
+            "city": "Parachinar",
+            "distance": 218.54737431350406
+        },
+        {
+            "city": "Chilas",
+            "distance": 203.09439524181724
+        },
+        {
+            "city": "Daggar",
+            "distance": 95.27211432084333
+        },
+        {
+            "city": "Bagh",
+            "distance": 221.33295692939785
+        },
+        {
+            "city": "Mansehra",
+            "distance": 154.29678485368657
+        },
+        {
+            "city": "Hangu",
+            "distance": 200.44509362568468
+        }
+    ],
+    "Naushahro Firoz": [
+        {
+            "city": "Karachi",
+            "distance": 246.92723978236796
+        },
+        {
+            "city": "Sukkur",
+            "distance": 120.69342385395882
+        },
+        {
+            "city": "Larkana",
+            "distance": 80.11461878512152
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 71.82025749300558
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 171.04852511132333
+        },
+        {
+            "city": "Sanghar",
+            "distance": 120.78998272799325
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 156.9107428371248
+        },
+        {
+            "city": "Jacobabad",
+            "distance": 163.0813493868338
+        },
+        {
+            "city": "Shikarpur",
+            "distance": 134.36344457835952
+        },
+        {
+            "city": "Khairpur",
+            "distance": 99.48971398787033
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 163.90618988533987
+        },
+        {
+            "city": "Dera Allahyar",
+            "distance": 176.77902107039728
+        },
+        {
+            "city": "Umerkot",
+            "distance": 230.3897394989931
+        },
+        {
+            "city": "Dera Murad Jamali",
+            "distance": 188.52692625058324
+        },
+        {
+            "city": "Ghotki",
+            "distance": 175.41134372676734
+        },
+        {
+            "city": "Khuzdar",
+            "distance": 182.89376816592727
+        },
+        {
+            "city": "Thatta",
+            "distance": 233.6571817290266
+        },
+        {
+            "city": "Gandawah",
+            "distance": 206.84912107167926
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 164.31450122566685
+        }
+    ],
+    "Astore": [
+        {
+            "city": "Gilgit",
+            "distance": 79.44486127826893
+        },
+        {
+            "city": "Mingora",
+            "distance": 237.91317465831432
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 169.84816930577676
+        },
+        {
+            "city": "Kotli",
+            "distance": 224.3455008636847
+        },
+        {
+            "city": "Chilas",
+            "distance": 70.28523231666323
+        },
+        {
+            "city": "Daggar",
+            "distance": 237.92307128469858
+        },
+        {
+            "city": "Bagh",
+            "distance": 184.42422015256562
+        },
+        {
+            "city": "Mansehra",
+            "distance": 191.22423351689073
+        }
+    ],
+    "Wazirabad": [
+        {
+            "city": "Lahore",
+            "distance": 105.85652569848429
+        },
+        {
+            "city": "Islamabad",
+            "distance": 169.58310840367474
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 144.68225028057373
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 161.03285009892568
+        },
+        {
+            "city": "Sialkot",
+            "distance": 38.360314995109455
+        },
+        {
+            "city": "Sargodha",
+            "distance": 141.89335457074918
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 82.97051874537881
+        },
+        {
+            "city": "Jhang",
+            "distance": 214.75591787919868
+        },
+        {
+            "city": "Gujrat",
+            "distance": 14.1049172851546
+        },
+        {
+            "city": "Kasur",
+            "distance": 151.68859387730964
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 220.45121305499168
+        },
+        {
+            "city": "Okara",
+            "distance": 192.67506083423137
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 60.60423953737467
+        },
+        {
+            "city": "Chiniot",
+            "distance": 134.5029619231379
+        },
+        {
+            "city": "Shahkot",
+            "distance": 114.79881380384104
+        },
+        {
+            "city": "Kamoke",
+            "distance": 53.84620679839911
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 58.575787184645726
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 243.2129598330571
+        },
+        {
+            "city": "Jhelum",
+            "distance": 64.9406106782873
+        },
+        {
+            "city": "Mianwali",
+            "distance": 241.1128263264324
+        },
+        {
+            "city": "Muzaffarabad",
+            "distance": 221.77066152724285
+        },
+        {
+            "city": "Attock",
+            "distance": 220.25030699020172
+        },
+        {
+            "city": "Kotli",
+            "distance": 120.06953562364484
+        },
+        {
+            "city": "Bagh",
+            "distance": 172.9872363978067
+        },
+        {
+            "city": "Mansehra",
+            "distance": 227.0392717916296
+        },
+        {
+            "city": "Toba Tek Singh",
+            "distance": 225.99862452185914
+        }
+    ],
+    "Hyderabad": [
+        {
+            "city": "Karachi",
+            "distance": 149.23285147039124
+        },
+        {
+            "city": "Larkana",
+            "distance": 242.49017672785806
+        },
+        {
+            "city": "Nawabshah",
+            "distance": 96.72746557960492
+        },
+        {
+            "city": "Mirpur Khas",
+            "distance": 66.5903848038087
+        },
+        {
+            "city": "Sanghar",
+            "distance": 94.27803418309784
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 10.734973118574192
+        },
+        {
+            "city": "Khairpur",
+            "distance": 242.2331093596918
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 36.316409208533855
+        },
+        {
+            "city": "Umerkot",
+            "distance": 137.4975311532026
+        },
+        {
+            "city": "Thatta",
+            "distance": 83.42327299064918
+        },
+        {
+            "city": "Badin",
+            "distance": 93.40541630334339
+        },
+        {
+            "city": "Naushahro Firoz",
+            "distance": 164.31450122566685
+        },
+        {
+            "city": "Tharparkar",
+            "distance": 211.23418163552424
+        }
+    ],
+    "Tharparkar": [
+        {
+            "city": "Mirpur Khas",
+            "distance": 157.189161140179
+        },
+        {
+            "city": "Sanghar",
+            "distance": 196.08835621227837
+        },
+        {
+            "city": "Jamshoro",
+            "distance": 221.31455554375282
+        },
+        {
+            "city": "Tando Allahyar",
+            "distance": 181.21110175529654
+        },
+        {
+            "city": "Umerkot",
+            "distance": 86.46488236585493
+        },
+        {
+            "city": "Thatta",
+            "distance": 248.52162988769888
+        },
+        {
+            "city": "Badin",
+            "distance": 157.54100905184066
+        },
+        {
+            "city": "Hyderabad",
+            "distance": 211.23418163552424
+        }
+    ],
+    "Bannu": [
+        {
+            "city": "Islamabad",
+            "distance": 240.39674946322086
+        },
+        {
+            "city": "Rawalpindi",
+            "distance": 239.42713883063226
+        },
+        {
+            "city": "Sargodha",
+            "distance": 218.4091238495679
+        },
+        {
+            "city": "Mardan",
+            "distance": 190.9102969573216
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 131.03058029555208
+        },
+        {
+            "city": "Kohat",
+            "distance": 103.0816436622453
+        },
+        {
+            "city": "Mianwali",
+            "distance": 99.32469624889598
+        },
+        {
+            "city": "Attock",
+            "distance": 184.3721282042225
+        },
+        {
+            "city": "Timargara",
+            "distance": 234.87070749084216
+        },
+        {
+            "city": "Parachinar",
+            "distance": 111.48774866279162
+        },
+        {
+            "city": "Zhob",
+            "distance": 212.30896092604456
+        },
+        {
+            "city": "Daggar",
+            "distance": 243.3527147318445
+        },
+        {
+            "city": "Hangu",
+            "distance": 74.98843741673808
+        }
+    ],
+    "Toba Tek Singh": [
+        {
+            "city": "Lahore",
+            "distance": 188.61909321877607
+        },
+        {
+            "city": "Faisalabad",
+            "distance": 82.06193779164155
+        },
+        {
+            "city": "Bhawalpur",
+            "distance": 190.4230558480108
+        },
+        {
+            "city": "Multan",
+            "distance": 129.22177467007396
+        },
+        {
+            "city": "Sargodha",
+            "distance": 125.46268778863006
+        },
+        {
+            "city": "Sheikhupura",
+            "distance": 164.45757492527696
+        },
+        {
+            "city": "Jhang",
+            "distance": 37.0304823770846
+        },
+        {
+            "city": "Dera Ghazi Khan",
+            "distance": 203.98113745722506
+        },
+        {
+            "city": "Gujrat",
+            "distance": 233.76538163370586
+        },
+        {
+            "city": "Kasur",
+            "distance": 187.7890588077789
+        },
+        {
+            "city": "Dera Ismail Khan",
+            "distance": 178.29466284659603
+        },
+        {
+            "city": "Sahiwal",
+            "distance": 67.68331325142864
+        },
+        {
+            "city": "Okara",
+            "distance": 94.78697916587927
+        },
+        {
+            "city": "Mandi Bahauddin",
+            "distance": 203.87866093711855
+        },
+        {
+            "city": "Chiniot",
+            "distance": 96.052287634229
+        },
+        {
+            "city": "Shahkot",
+            "distance": 116.07642994503985
+        },
+        {
+            "city": "Kamoke",
+            "distance": 199.54811453767886
+        },
+        {
+            "city": "Hafizabad",
+            "distance": 167.42285444226414
+        },
+        {
+            "city": "Lodhran",
+            "distance": 178.56080547054378
+        },
+        {
+            "city": "Muzaffargarh",
+            "distance": 158.71241850688529
+        },
+        {
+            "city": "Khanewal",
+            "distance": 90.77759010500787
+        },
+        {
+            "city": "Pakpattan",
+            "distance": 111.31386186996392
+        },
+        {
+            "city": "Jhelum",
+            "distance": 248.23901201820482
+        },
+        {
+            "city": "Vihari",
+            "distance": 103.61930586870258
+        },
+        {
+            "city": "Burewala",
+            "distance": 90.37634733331356
+        },
+        {
+            "city": "Mianwali",
+            "distance": 200.23783297858105
+        },
+        {
+            "city": "Wazirabad",
+            "distance": 225.99862452185914
+        }
+    ]
+}
